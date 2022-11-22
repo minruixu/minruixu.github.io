@@ -1,2 +1,2 @@
-# jingcaiguo.github.io
-Welcome to Jingcai's page
+# minruixu.github.io
+Welcome to Minrui's page
