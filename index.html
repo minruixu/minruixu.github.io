@@ -50,22 +50,7 @@
         <p><b>Office: </b>CNCL, Block N4-B2a-1, 50 Nanyang Ave, Singapore 639798.<br />
         <b>Email: </b>[MINRUI001 AT e.ntu.edu.sg]<br />
           <a href="https://scholar.google.com/citations?user=hZVzk2MAAAAJ&hl=en"><b>Google Scholar</b></a>
-  <span id="scholar-metrics" style="margin-left: 10px;">📈 Loading...</span>
         </p>
-    <script>
-  fetch("https://serpapi.com/search.json?engine=google_scholar_author&author_id=hZVzk2MAAAAJ&api_key=YOUR_API_KEY")
-    .then(response => response.json())
-    .then(data => {
-      const citations = data.cited_by.table[0].citations.all;
-      const hIndex = data.cited_by.table[1].h_index.all;
-      document.getElementById("scholar-metrics").innerHTML =
-        `| Citations: ${citations} | h-index: ${hIndex}`;
-    })
-    .catch(error => {
-      document.getElementById("scholar-metrics").innerHTML = "📉 Stats unavailable";
-      console.error('Scholar fetch error:', error);
-    });
-</script>
 
             <h2>Short Bio</h2>
            
