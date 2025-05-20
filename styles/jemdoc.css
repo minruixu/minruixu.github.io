@@ -372,3 +372,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+/* News block */
+.news-list      { list-style:none; padding-left:0; margin-top:10px; }
+.news-list li   { padding:6px 0; border-bottom:1px dashed #ccc; }
+.news-date      { color:#527bbd; font-weight:700; margin-right:8px; }
