@@ -1,0 +1,18 @@
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Service"
+    url: /service/
+
+  - title: "Blog"
+    url: /year-archive/
+
+  - title: "CV"
+    url: /cv/

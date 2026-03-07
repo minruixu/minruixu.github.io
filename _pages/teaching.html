@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+<h2>Teaching Assistant</h2>
+
+<ol>
+  <li><strong>Object-oriented Programming</strong>, College of Computing and Data Science, Nanyang Technological University, Fall 2022.</li>
+  <li><strong>Computer Networks</strong>, College of Computing and Data Science, Nanyang Technological University, Spring 2023.</li>
+</ol>
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
