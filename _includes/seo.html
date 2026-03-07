@@ -1,10 +1,10 @@
 {% include base_path %}
 
 <!-- begin SEO -->
+{% assign seo_url = site.baseurl | default: "" %}
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
-{% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
