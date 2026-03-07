@@ -2,6 +2,7 @@
 
 {% include analytics.html %}
 
+<!-- Scroll Progress Bar -->
 <script>
 (function(){
   var bar = document.getElementById('progress-bar');
@@ -10,7 +11,7 @@
     var h = document.documentElement, b = document.body;
     var st = h.scrollTop || b.scrollTop;
     var sh = (h.scrollHeight || b.scrollHeight) - h.clientHeight;
-    bar.style.width = (st / sh * 100) + '%';
+    bar.style.width = (sh > 0 ? (st / sh * 100) : 0) + '%';
   });
 })();
 </script>

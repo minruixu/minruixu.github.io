@@ -11,7 +11,10 @@ redirect_from:
 {% capture written_year %}'None'{% endcapture %}
 {% assign post_count = site.posts | size %}
 {% if post_count == 0 %}
-  <p style="color:#888; font-style:italic; margin-top:16px;">No posts yet. Stay tuned!</p>
+  <div style="text-align: center; padding: 3em 1em;">
+    <p style="font-size: 1.5rem; font-family: var(--font-heading); color: var(--text-muted); margin: 0;">Coming Soon</p>
+    <p style="font-size: 0.9rem; color: var(--text-secondary); margin-top: 0.5em;">No posts yet. Stay tuned!</p>
+  </div>
 {% else %}
   {% for post in site.posts %}
     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}

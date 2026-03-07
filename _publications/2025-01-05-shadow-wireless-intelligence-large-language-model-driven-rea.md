@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Shadow wireless intelligence: Large language model-driven reasoning in covert communications"
+title: "[Preprint] Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications"
 collection: publications
 category: preprints
 permalink: /publication/shadow-wireless-intelligence-large-language-model-driven-rea
 date: 2025-01-05
 venue: 'arXiv preprint arXiv:2505.04068'
-citation: 'Yuanai Xie, Zhaozhi Liu, Xiao Zhang, Shihua Zhang, Rui Hou, Minrui Xu, Ruichen Zhang, and Dusit Niyato. (2025). &quot;Shadow wireless intelligence: Large language model-driven reasoning in covert communications&quot; <i>arXiv preprint arXiv:2505.04068</i>.'
+citation: 'Yuanai Xie, Zhaozhi Liu, Xiao Zhang, Shihua Zhang, Rui Hou, Minrui Xu, Ruichen Zhang, and Dusit Niyato. (2025). &quot;Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications&quot; <i>arXiv preprint arXiv:2505.04068</i>.'
 paperurl: https://arxiv.org/abs/2505.04068
 arxiv_id: "2505.04068"
 abstract_source_label: "arXiv"

@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Optimal stochastic resource allocation for distributed quantum computing"
+title: "[Preprint] Optimal Stochastic Resource Allocation for Distributed Quantum Computing"
 collection: publications
 category: preprints
 permalink: /publication/optimal-stochastic-resource-allocation-for-distributed-quant
 date: 2022-01-12
 venue: 'arXiv preprint arXiv:2210.02886'
-citation: 'Napat Ngoenriang, Minrui Xu, Sucha Supittayapornpong, Dusit Niyato, Han Yu, et al. (2022). &quot;Optimal stochastic resource allocation for distributed quantum computing&quot; <i>arXiv preprint arXiv:2210.02886</i>.'
+citation: 'Napat Ngoenriang, Minrui Xu, Sucha Supittayapornpong, Dusit Niyato, Han Yu, et al. (2022). &quot;Optimal Stochastic Resource Allocation for Distributed Quantum Computing&quot; <i>arXiv preprint arXiv:2210.02886</i>.'
 paperurl: https://arxiv.org/abs/2210.02886
 arxiv_id: "2210.02886"
 abstract_source_label: "arXiv"

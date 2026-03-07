@@ -1,11 +1,11 @@
 ---
-title: "[ComMag] Dqc2o: Distributed quantum computing for collaborative optimization in future networks"
+title: "[ComMag] DQC2O: Distributed Quantum Computing for Collaborative Optimization in Future Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/dqc2o-distributed-quantum-computing-for-collaborative-optimi
 date: 2023-02-03
 venue: 'IEEE Communications Magazine'
-citation: 'Napat Ngoenriang, Minrui Xu, Jiawen Kang, Dusit Niyato, Han Yu, and Xuemin Shen. (2023). &quot;Dqc2o: Distributed quantum computing for collaborative optimization in future networks&quot; <i>IEEE Communications Magazine</i>.'
+citation: 'Napat Ngoenriang, Minrui Xu, Jiawen Kang, Dusit Niyato, Han Yu, and Xuemin Shen. (2023). &quot;DQC2O: Distributed Quantum Computing for Collaborative Optimization in Future Networks&quot; <i>IEEE Communications Magazine</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10032075/
 abstract_source_label: "IEEE Xplore"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10032075/"

@@ -1,11 +1,11 @@
 ---
-title: "[ToN] Serving long-context LLMs at the mobile edge: Test-time reinforcement learning-based model caching and inference offloading"
+title: "[ToN] Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-Based Model Caching and Inference Offloading"
 collection: publications
 category: manuscripts
 permalink: /publication/serving-long-context-llms-at-the-mobile-edge-test-time-reinf
 date: 2026-01-02
 venue: 'IEEE Transactions on Networking'
-citation: 'Minrui Xu, Dusit Niyato, and Christopher G Brinton. (2026). &quot;Serving long-context LLMs at the mobile edge: Test-time reinforcement learning-based model caching and inference offloading&quot; <i>IEEE Transactions on Networking</i>.'
+citation: 'Minrui Xu, Dusit Niyato, and Christopher G Brinton. (2026). &quot;Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-Based Model Caching and Inference Offloading&quot; <i>IEEE Transactions on Networking</i>.'
 paperurl: https://ieeexplore.ieee.org/document/11417298/
 arxiv_id: "2501.14205"
 abstract_source_label: "arXiv"

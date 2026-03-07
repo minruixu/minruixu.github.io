@@ -1,11 +1,11 @@
 ---
-title: "[GetMobile] An overview of 3gpp standardization for extended reality (xr) in 5g and beyond"
+title: "[GetMobile] An Overview of 3GPP Standardization for Extended Reality (XR) in 5G and Beyond"
 collection: publications
 category: manuscripts
 permalink: /publication/an-overview-of-3gpp-standardization-for-extended-reality-xr
 date: 2023-02-04
 venue: 'GetMobile: Mobile Computing and Communications'
-citation: 'Qinpei Luo, Hongliang Zhang, Minrui Xu, Boya Di, Anthony Chen, Shiwen Mao, Dusit Niyato, and Zhu Han. (2023). &quot;An overview of 3gpp standardization for extended reality (xr) in 5g and beyond&quot; <i>GetMobile: Mobile Computing and Communications</i>.'
+citation: 'Qinpei Luo, Hongliang Zhang, Minrui Xu, Boya Di, Anthony Chen, Shiwen Mao, Dusit Niyato, and Zhu Han. (2023). &quot;An Overview of 3GPP Standardization for Extended Reality (XR) in 5G and Beyond&quot; <i>GetMobile: Mobile Computing and Communications</i>.'
 paperurl: https://doi.org/10.1145/3631588.3631592
 abstract_source_label: "OpenAlex"
 abstract_source_url: "https://openalex.org/W4388116110"

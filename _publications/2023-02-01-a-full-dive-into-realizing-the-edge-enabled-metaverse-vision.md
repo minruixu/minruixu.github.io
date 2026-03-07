@@ -1,11 +1,11 @@
 ---
-title: "[CST] A full dive into realizing the edge-enabled metaverse: Visions, enabling technologies, and challenges"
+title: "[CST] A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges"
 collection: publications
 category: manuscripts
 permalink: /publication/a-full-dive-into-realizing-the-edge-enabled-metaverse-vision
 date: 2023-02-01
 venue: 'IEEE Communications Surveys & Tutorials'
-citation: 'Minrui Xu, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Shen, and Chunyan Miao. (2023). &quot;A full dive into realizing the edge-enabled metaverse: Visions, enabling technologies, and challenges&quot; <i>IEEE Communications Surveys & Tutorials</i>.'
+citation: 'Minrui Xu, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Shen, and Chunyan Miao. (2023). &quot;A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges&quot; <i>IEEE Communications Surveys & Tutorials</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9944868/
 arxiv_id: "2203.05471"
 abstract_source_label: "arXiv"

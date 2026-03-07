@@ -1,11 +1,11 @@
 ---
-title: "[ICC] Multiple description coding for point cloud"
+title: "[ICC] Multiple Description Coding for Point Cloud"
 collection: publications
 category: conferences
 permalink: /publication/multiple-description-coding-for-point-cloud
 date: 2024-01-13
 venue: 'IEEE International Conference on Communications'
-citation: 'Anthony Chen, Shiwen Mao, Zhu Li, Minrui Xu, Hongliang Zhang, Dusit Niyato, and Zhu Han. (2024). &quot;Multiple description coding for point cloud&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Anthony Chen, Shiwen Mao, Zhu Li, Minrui Xu, Hongliang Zhang, Dusit Niyato, and Zhu Han. (2024). &quot;Multiple Description Coding for Point Cloud&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10623006/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10623006/"

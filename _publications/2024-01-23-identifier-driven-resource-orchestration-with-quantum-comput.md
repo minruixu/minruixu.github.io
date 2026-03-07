@@ -1,11 +1,11 @@
 ---
-title: "[TVT] Identifier-driven resource orchestration with quantum computing for differentiated services in iot-mmec networks"
+title: "[TVT] Identifier-Driven Resource Orchestration with Quantum Computing for Differentiated Services in IoT-MMEC Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/identifier-driven-resource-orchestration-with-quantum-comput
 date: 2024-01-23
 venue: 'IEEE Transactions on Vehicular Technology'
-citation: 'Zhengyang Ai, Weiting Zhang, Jiawen Kang, Minrui Xu, Dusit Niyato, and Stephen John Turner. (2024). &quot;Identifier-driven resource orchestration with quantum computing for differentiated services in iot-mmec networks&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
+citation: 'Zhengyang Ai, Weiting Zhang, Jiawen Kang, Minrui Xu, Dusit Niyato, and Stephen John Turner. (2024). &quot;Identifier-Driven Resource Orchestration with Quantum Computing for Differentiated Services in IoT-MMEC Networks&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10430465/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10430465/"

@@ -1,11 +1,11 @@
 ---
-title: "[GlobeCom] Sustainable aigc workload scheduling of geo-distributed data centers: A multi-agent reinforcement learning approach"
+title: "[GlobeCom] Sustainable AIGC Workload Scheduling of Geo-Distributed Data Centers: A Multi-Agent Reinforcement Learning Approach"
 collection: publications
 category: conferences
 permalink: /publication/sustainable-aigc-workload-scheduling-of-geo-distributed-data
 date: 2023-01-14
 venue: 'IEEE Global Communications Conference'
-citation: 'Siyue Zhang, Minrui Xu, Wei Yang Bryan Lim, and Dusit Niyato. (2023). &quot;Sustainable aigc workload scheduling of geo-distributed data centers: A multi-agent reinforcement learning approach&quot; <i>IEEE Global Communications Conference</i>.'
+citation: 'Siyue Zhang, Minrui Xu, Wei Yang Bryan Lim, and Dusit Niyato. (2023). &quot;Sustainable AIGC Workload Scheduling of Geo-Distributed Data Centers: A Multi-Agent Reinforcement Learning Approach&quot; <i>IEEE Global Communications Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10437617/
 arxiv_id: "2304.07948"
 abstract_source_label: "arXiv"

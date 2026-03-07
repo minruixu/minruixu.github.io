@@ -1,11 +1,11 @@
 ---
-title: "[JSTSP] Esqfl: Digital twin-driven explainable and secured quantum federated learning for voltage stability assessment in smart grids"
+title: "[JSTSP] ESQFL: Digital Twin-Driven Explainable and Secured Quantum Federated Learning for Voltage Stability Assessment in Smart Grids"
 collection: publications
 category: manuscripts
 permalink: /publication/esqfl-digital-twin-driven-explainable-and-secured-quantum-fe
 date: 2024-01-17
 venue: 'IEEE Journal of Selected Topics in Signal Processing'
-citation: 'Chao Ren, Zhao Yang Dong, Han Yu, Minrui Xu, Zehui Xiong, and Dusit Niyato. (2024). &quot;Esqfl: Digital twin-driven explainable and secured quantum federated learning for voltage stability assessment in smart grids&quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>.'
+citation: 'Chao Ren, Zhao Yang Dong, Han Yu, Minrui Xu, Zehui Xiong, and Dusit Niyato. (2024). &quot;ESQFL: Digital Twin-Driven Explainable and Secured Quantum Federated Learning for Voltage Stability Assessment in Smart Grids&quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10734228/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10734228/"

@@ -1,11 +1,11 @@
 ---
-title: "[VTM] Sparks of generative pretrained transformers in edge intelligence for the metaverse: Caching and inference for mobile artificial intelligence-generated content services"
+title: "[VTM] Sparks of Generative Pretrained Transformers in Edge Intelligence for the Metaverse: Caching and Inference for Mobile Artificial Intelligence-Generated Content Services"
 collection: publications
 category: manuscripts
 permalink: /publication/sparks-of-generative-pretrained-transformers-in-edge-intelli
 date: 2023-01-26
 venue: 'IEEE Vehicular Technology Magazine'
-citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Sparks of generative pretrained transformers in edge intelligence for the metaverse: Caching and inference for mobile artificial intelligence-generated content services&quot; <i>IEEE Vehicular Technology Magazine</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Sparks of Generative Pretrained Transformers in Edge Intelligence for the Metaverse: Caching and Inference for Mobile Artificial Intelligence-Generated Content Services&quot; <i>IEEE Vehicular Technology Magazine</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10305704/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10305704/"

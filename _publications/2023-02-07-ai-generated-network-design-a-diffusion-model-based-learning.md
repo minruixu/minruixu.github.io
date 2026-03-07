@@ -1,11 +1,11 @@
 ---
-title: "[Network] Ai-generated network design: A diffusion model-based learning approach"
+title: "[Network] AI-Generated Network Design: A Diffusion Model-Based Learning Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/ai-generated-network-design-a-diffusion-model-based-learning
 date: 2023-02-07
 venue: 'IEEE Network'
-citation: 'Yudong Huang, Minrui Xu, Xinyuan Zhang, Dusit Niyato, Zehui Xiong, Shuo Wang, and Tao Huang. (2023). &quot;Ai-generated network design: A diffusion model-based learning approach&quot; <i>IEEE Network</i>.'
+citation: 'Yudong Huang, Minrui Xu, Xinyuan Zhang, Dusit Niyato, Zehui Xiong, Shuo Wang, and Tao Huang. (2023). &quot;AI-Generated Network Design: A Diffusion Model-Based Learning Approach&quot; <i>IEEE Network</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10273408/
 arxiv_id: "2303.13869"
 abstract_source_label: "arXiv"

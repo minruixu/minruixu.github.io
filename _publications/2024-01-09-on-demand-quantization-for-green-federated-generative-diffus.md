@@ -1,11 +1,11 @@
 ---
-title: "[ICC] On-demand quantization for green federated generative diffusion in mobile edge networks"
+title: "[ICC] On-Demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks"
 collection: publications
 category: conferences
 permalink: /publication/on-demand-quantization-for-green-federated-generative-diffus
 date: 2024-01-09
 venue: 'IEEE International Conference on Communications'
-citation: 'Bingkun Lai, Jiayi He, Jiawen Kang, Gaolei Li, Minrui Xu, Shengli Xie, et al. (2024). &quot;On-demand quantization for green federated generative diffusion in mobile edge networks&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Bingkun Lai, Jiayi He, Jiawen Kang, Gaolei Li, Minrui Xu, Shengli Xie, et al. (2024). &quot;On-Demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10622695/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10622695/"

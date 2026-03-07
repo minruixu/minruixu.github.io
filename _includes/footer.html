@@ -1,1 +1,23 @@
 {% include base_path %}
+
+<div class="footer-social">
+  {% if site.author.email %}
+    <a href="mailto:{{ site.author.email }}" title="Email"><i class="fas fa-envelope"></i></a>
+  {% endif %}
+  {% if site.author.googlescholar %}
+    <a href="{{ site.author.googlescholar }}" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar"></i></a>
+  {% endif %}
+  {% if site.author.github %}
+    <a href="https://github.com/{{ site.author.github }}" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>
+  {% endif %}
+  {% if site.author.linkedin %}
+    <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
+  {% endif %}
+  {% if site.author.orcid %}
+    <a href="{{ site.author.orcid }}" title="ORCID" target="_blank"><i class="ai ai-orcid"></i></a>
+  {% endif %}
+  {% if site.author.twitter %}
+    <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" target="_blank"><i class="fab fa-x-twitter"></i></a>
+  {% endif %}
+</div>
+<div>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Powered by <a href="https://jekyllrb.com/" target="_blank" style="color: var(--text-muted);">Jekyll</a>.</div>

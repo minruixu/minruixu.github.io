@@ -1,11 +1,11 @@
 ---
-title: "[TVT] Decentralized multimedia data sharing in iov: A learning-based equilibrium of supply and demand"
+title: "[TVT] Decentralized Multimedia Data Sharing in IoV: A Learning-Based Equilibrium of Supply and Demand"
 collection: publications
 category: manuscripts
 permalink: /publication/decentralized-multimedia-data-sharing-in-iov-a-learning-base
 date: 2023-02-08
 venue: 'IEEE Transactions on Vehicular Technology'
-citation: 'Jiani Fan, Minrui Xu, Jiale Guo, Lwin Khin Shar, Jiawen Kang, Dusit Niyato, and Kwok-Yan Lam. (2023). &quot;Decentralized multimedia data sharing in iov: A learning-based equilibrium of supply and demand&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
+citation: 'Jiani Fan, Minrui Xu, Jiale Guo, Lwin Khin Shar, Jiawen Kang, Dusit Niyato, and Kwok-Yan Lam. (2023). &quot;Decentralized Multimedia Data Sharing in IoV: A Learning-Based Equilibrium of Supply and Demand&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10272628/
 arxiv_id: "2403.20218"
 abstract_source_label: "arXiv"

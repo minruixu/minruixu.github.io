@@ -1,11 +1,11 @@
 ---
-title: "[TVT] Compressing deep reinforcement learning networks with a dynamic structured pruning method for autonomous driving"
+title: "[TVT] Compressing Deep Reinforcement Learning Networks with a Dynamic Structured Pruning Method for Autonomous Driving"
 collection: publications
 category: manuscripts
 permalink: /publication/compressing-deep-reinforcement-learning-networks-with-a-dyna
 date: 2024-01-14
 venue: 'IEEE Transactions on Vehicular Technology'
-citation: 'Wensheng Su, Zhenni Li, Minrui Xu, Jiawen Kang, Dusit Niyato, and Shengli Xie. (2024). &quot;Compressing deep reinforcement learning networks with a dynamic structured pruning method for autonomous driving&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
+citation: 'Wensheng Su, Zhenni Li, Minrui Xu, Jiawen Kang, Dusit Niyato, and Shengli Xie. (2024). &quot;Compressing Deep Reinforcement Learning Networks with a Dynamic Structured Pruning Method for Autonomous Driving&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10529967/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10529967/"

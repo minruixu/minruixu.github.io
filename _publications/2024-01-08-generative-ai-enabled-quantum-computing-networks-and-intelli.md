@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Generative ai-enabled quantum computing networks and intelligent resource allocation"
+title: "[Preprint] Generative AI-Enabled Quantum Computing Networks and Intelligent Resource Allocation"
 collection: publications
 category: preprints
 permalink: /publication/generative-ai-enabled-quantum-computing-networks-and-intelli
 date: 2024-01-08
 venue: 'arXiv preprint arXiv:2401.07120'
-citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Yuan Cao, Yulan Gao, Chao Ren, and Han Yu. (2024). &quot;Generative ai-enabled quantum computing networks and intelligent resource allocation&quot; <i>arXiv preprint arXiv:2401.07120</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Yuan Cao, Yulan Gao, Chao Ren, and Han Yu. (2024). &quot;Generative AI-Enabled Quantum Computing Networks and Intelligent Resource Allocation&quot; <i>arXiv preprint arXiv:2401.07120</i>.'
 paperurl: https://arxiv.org/abs/2401.07120
 arxiv_id: "2401.07120"
 abstract_source_label: "arXiv"

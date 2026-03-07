@@ -1,11 +1,11 @@
 ---
-title: "[JAS] Uav-assisted dynamic avatar task migration for vehicular metaverse services: A multi-agent deep reinforcement learning approach"
+title: "[JAS] UAV-Assisted Dynamic Avatar Task Migration for Vehicular Metaverse Services: A Multi-Agent Deep Reinforcement Learning Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/uav-assisted-dynamic-avatar-task-migration-for-vehicular-met
 date: 2024-01-21
 venue: 'IEEE/CAA Journal of Automatica Sinica'
-citation: 'Jiawen Kang, Junlong Chen, Minrui Xu, Zehui Xiong, Yutao Jiao, Luchao Han, Dusit Niyato, Yongju Tong, and Shengli Xie. (2024). &quot;Uav-assisted dynamic avatar task migration for vehicular metaverse services: A multi-agent deep reinforcement learning approach&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>.'
+citation: 'Jiawen Kang, Junlong Chen, Minrui Xu, Zehui Xiong, Yutao Jiao, Luchao Han, Dusit Niyato, Yongju Tong, and Shengli Xie. (2024). &quot;UAV-Assisted Dynamic Avatar Task Migration for Vehicular Metaverse Services: A Multi-Agent Deep Reinforcement Learning Approach&quot; <i>IEEE/CAA Journal of Automatica Sinica</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10415630/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10415630/"

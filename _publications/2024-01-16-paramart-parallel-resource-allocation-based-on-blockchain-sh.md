@@ -1,11 +1,11 @@
 ---
-title: "[TSC] Paramart: Parallel resource allocation based on blockchain sharding for edge-cloud services"
+title: "[TSC] Paramart: Parallel Resource Allocation Based on Blockchain Sharding for Edge-Cloud Services"
 collection: publications
 category: manuscripts
 permalink: /publication/paramart-parallel-resource-allocation-based-on-blockchain-sh
 date: 2024-01-16
 venue: 'IEEE Transactions on Services Computing'
-citation: 'Xiaoxu Ren, Minrui Xu, Dusit Niyato, Jiawen Kang, Chao Qiu, and Xiaofei Wang. (2024). &quot;Paramart: Parallel resource allocation based on blockchain sharding for edge-cloud services&quot; <i>IEEE Transactions on Services Computing</i>.'
+citation: 'Xiaoxu Ren, Minrui Xu, Dusit Niyato, Jiawen Kang, Chao Qiu, and Xiaofei Wang. (2024). &quot;Paramart: Parallel Resource Allocation Based on Blockchain Sharding for Edge-Cloud Services&quot; <i>IEEE Transactions on Services Computing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10416386/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10416386/"

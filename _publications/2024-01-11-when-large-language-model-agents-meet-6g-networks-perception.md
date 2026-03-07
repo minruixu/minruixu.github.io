@@ -1,11 +1,11 @@
 ---
-title: "[WCM] When large language model agents meet 6g networks: Perception, grounding, and alignment"
+title: "[WCM] When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment"
 collection: publications
 category: manuscripts
 permalink: /publication/when-large-language-model-agents-meet-6g-networks-perception
 date: 2024-01-11
 venue: 'IEEE Wireless Communications'
-citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Dong In Kim, and Khaled B. Letaief. (2024). &quot;When large language model agents meet 6g networks: Perception, grounding, and alignment&quot; <i>IEEE Wireless Communications</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Dong In Kim, and Khaled B. Letaief. (2024). &quot;When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment&quot; <i>IEEE Wireless Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10648594/
 arxiv_id: "2401.07764"
 abstract_source_label: "arXiv"

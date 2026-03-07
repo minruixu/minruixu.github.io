@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Fluid antenna enabled over-the-air federated learning: Joint optimization of positioning, beamforming, and user selection"
+title: "[Preprint] Fluid Antenna Enabled over-the-Air Federated Learning: Joint Optimization of Positioning, Beamforming, and User Selection"
 collection: publications
 category: preprints
 permalink: /publication/fluid-antenna-enabled-over-the-air-federated-learning-joint
 date: 2025-01-06
 venue: 'arXiv preprint arXiv:2503.00011'
-citation: 'Yang Zhao, Minrui Xu, Ping Wang, and Dusit Niyato. (2025). &quot;Fluid antenna enabled over-the-air federated learning: Joint optimization of positioning, beamforming, and user selection&quot; <i>arXiv preprint arXiv:2503.00011</i>.'
+citation: 'Yang Zhao, Minrui Xu, Ping Wang, and Dusit Niyato. (2025). &quot;Fluid Antenna Enabled over-the-Air Federated Learning: Joint Optimization of Positioning, Beamforming, and User Selection&quot; <i>arXiv preprint arXiv:2503.00011</i>.'
 paperurl: https://arxiv.org/abs/2503.00011
 arxiv_id: "2503.00011"
 abstract_source_label: "arXiv"

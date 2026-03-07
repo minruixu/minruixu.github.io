@@ -1,11 +1,11 @@
 ---
-title: "[ICCC] Freshness-aware incentive mechanism for mobile ai-generated content (aigc) networks"
+title: "[ICCC] Freshness-Aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks"
 collection: publications
 category: conferences
 permalink: /publication/freshness-aware-incentive-mechanism-for-mobile-ai-generated
 date: 2023-01-20
 venue: 'IEEE/CIC International Conference on Communications in China'
-citation: 'Jinbo Wen, Jiawen Kang, Minrui Xu, Hongyang Du, Zehui Xiong, Yang Zhang, and Dusit Niyato. (2023). &quot;Freshness-aware incentive mechanism for mobile ai-generated content (aigc) networks&quot; <i>IEEE/CIC International Conference on Communications in China</i>.'
+citation: 'Jinbo Wen, Jiawen Kang, Minrui Xu, Hongyang Du, Zehui Xiong, Yang Zhang, and Dusit Niyato. (2023). &quot;Freshness-Aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks&quot; <i>IEEE/CIC International Conference on Communications in China</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10233667/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10233667/"

@@ -1,11 +1,11 @@
 ---
-title: "[GlobeCom] Performance analysis of jammer-aided covert ris-noma systems"
+title: "[GlobeCom] Performance Analysis of Jammer-Aided Covert RIS-NOMA Systems"
 collection: publications
 category: conferences
 permalink: /publication/performance-analysis-of-jammer-aided-covert-ris-noma-systems
 date: 2022-02-01
 venue: 'IEEE Global Communications Conference'
-citation: 'Yanyu Cheng, Jianyuan Lu, Dusit Niyato, Biao Lyu, Minrui Xu, and Shunmin Zhu. (2022). &quot;Performance analysis of jammer-aided covert ris-noma systems&quot; <i>IEEE Global Communications Conference</i>.'
+citation: 'Yanyu Cheng, Jianyuan Lu, Dusit Niyato, Biao Lyu, Minrui Xu, and Shunmin Zhu. (2022). &quot;Performance Analysis of Jammer-Aided Covert RIS-NOMA Systems&quot; <i>IEEE Global Communications Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10001489/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10001489/"

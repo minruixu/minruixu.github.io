@@ -1,11 +1,11 @@
 ---
-title: "[GlobeCom] Joint foundation model caching and inference of generative ai services for edge intelligence"
+title: "[GlobeCom] Joint Foundation Model Caching and Inference of Generative AI Services for Edge Intelligence"
 collection: publications
 category: conferences
 permalink: /publication/joint-foundation-model-caching-and-inference-of-generative-a
 date: 2023-01-17
 venue: 'IEEE Global Communications Conference'
-citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Joint foundation model caching and inference of generative ai services for edge intelligence&quot; <i>IEEE Global Communications Conference</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Joint Foundation Model Caching and Inference of Generative AI Services for Edge Intelligence&quot; <i>IEEE Global Communications Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10436771/
 arxiv_id: "2305.12130"
 abstract_source_label: "arXiv"

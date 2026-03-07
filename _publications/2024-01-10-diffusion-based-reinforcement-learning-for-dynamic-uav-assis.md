@@ -1,11 +1,11 @@
 ---
-title: "[GlobeCom] Diffusion-based reinforcement learning for dynamic uav-assisted vehicle twins migration in vehicular metaverses"
+title: "[GlobeCom] Diffusion-Based Reinforcement Learning for Dynamic UAV-Assisted Vehicle Twins Migration in Vehicular Metaverses"
 collection: publications
 category: conferences
 permalink: /publication/diffusion-based-reinforcement-learning-for-dynamic-uav-assis
 date: 2024-01-10
 venue: 'IEEE Global Communications Conference'
-citation: 'Yongju Tong, Jiawen Kang, Junlong Chen, Minrui Xu, Gaolei Li, Weiting Zhang, and Xinyu Yan. (2024). &quot;Diffusion-based reinforcement learning for dynamic uav-assisted vehicle twins migration in vehicular metaverses&quot; <i>IEEE Global Communications Conference</i>.'
+citation: 'Yongju Tong, Jiawen Kang, Junlong Chen, Minrui Xu, Gaolei Li, Weiting Zhang, and Xinyu Yan. (2024). &quot;Diffusion-Based Reinforcement Learning for Dynamic UAV-Assisted Vehicle Twins Migration in Vehicular Metaverses&quot; <i>IEEE Global Communications Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10901050/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10901050/"

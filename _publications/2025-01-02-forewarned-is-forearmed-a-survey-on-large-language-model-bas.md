@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Forewarned is forearmed: A survey on large language model-based agents in autonomous cyberattacks"
+title: "[Preprint] Forewarned Is Forearmed: A Survey on Large Language Model-Based Agents in Autonomous Cyberattacks"
 collection: publications
 category: preprints
 permalink: /publication/forewarned-is-forearmed-a-survey-on-large-language-model-bas
 date: 2025-01-02
 venue: 'submitted to ACM Computing Surveys, under Major Revision'
-citation: 'Minrui Xu, Jiani Fan, Xinyu Huang, Conghao Zhou, Jiawen Kang, Dusit Niyato, Shiwen Mao, Zhu Han, Xuemin (Sherman) Shen, and Kwok-Yan Lam. (2025). &quot;Forewarned is forearmed: A survey on large language model-based agents in autonomous cyberattacks&quot; <i>submitted to ACM Computing Surveys, under Major Revision</i>.'
+citation: 'Minrui Xu, Jiani Fan, Xinyu Huang, Conghao Zhou, Jiawen Kang, Dusit Niyato, Shiwen Mao, Zhu Han, Xuemin (Sherman) Shen, and Kwok-Yan Lam. (2025). &quot;Forewarned Is Forearmed: A Survey on Large Language Model-Based Agents in Autonomous Cyberattacks&quot; <i>submitted to ACM Computing Surveys, under Major Revision</i>.'
 paperurl: https://arxiv.org/abs/2505.12786
 arxiv_id: "2505.12786"
 abstract_source_label: "arXiv"

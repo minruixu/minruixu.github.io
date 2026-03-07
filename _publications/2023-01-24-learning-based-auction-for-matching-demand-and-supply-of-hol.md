@@ -1,11 +1,11 @@
 ---
-title: "[TMM] Learning-based auction for matching demand and supply of holographic digital twin over immersive communications"
+title: "[TMM] Learning-Based Auction for Matching Demand and Supply of Holographic Digital Twin over Immersive Communications"
 collection: publications
 category: manuscripts
 permalink: /publication/learning-based-auction-for-matching-demand-and-supply-of-hol
 date: 2023-01-24
 venue: 'IEEE Transactions on Multimedia'
-citation: 'XiuYu Zhang, Minrui Xu, Rui Tan, and Dusit Niyato. (2023). &quot;Learning-based auction for matching demand and supply of holographic digital twin over immersive communications&quot; <i>IEEE Transactions on Multimedia</i>.'
+citation: 'XiuYu Zhang, Minrui Xu, Rui Tan, and Dusit Niyato. (2023). &quot;Learning-Based Auction for Matching Demand and Supply of Holographic Digital Twin over Immersive Communications&quot; <i>IEEE Transactions on Multimedia</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10347512/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10347512/"

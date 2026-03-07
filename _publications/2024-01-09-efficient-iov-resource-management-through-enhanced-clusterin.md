@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Efficient iov resource management through enhanced clustering, matching, and offloading in dt-enabled edge computing"
+title: "[IoTJ] Efficient IoV Resource Management Through Enhanced Clustering, Matching, and Offloading in DT-Enabled Edge Computing"
 collection: publications
 category: manuscripts
 permalink: /publication/efficient-iov-resource-management-through-enhanced-clusterin
 date: 2024-01-09
 venue: 'IEEE Internet of Things Journal'
-citation: 'Xiaoming Yuan, Wenyuan Zhang, Jiayu Yang, Minrui Xu, Dusit Niyato, Qingxu Deng, and Changle Li. (2024). &quot;Efficient iov resource management through enhanced clustering, matching, and offloading in dt-enabled edge computing&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Xiaoming Yuan, Wenyuan Zhang, Jiayu Yang, Minrui Xu, Dusit Niyato, Qingxu Deng, and Changle Li. (2024). &quot;Efficient IoV Resource Management Through Enhanced Clustering, Matching, and Offloading in DT-Enabled Edge Computing&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10551388/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10551388/"

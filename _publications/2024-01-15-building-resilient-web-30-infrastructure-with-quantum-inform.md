@@ -1,11 +1,11 @@
 ---
-title: "[PIEEE] Building resilient web 3.0 infrastructure with quantum information technologies and blockchain: An ambilateral view"
+title: "[PIEEE] Building Resilient Web 3.0 Infrastructure with Quantum Information Technologies and Blockchain: An Ambilateral View"
 collection: publications
 category: manuscripts
 permalink: /publication/building-resilient-web-30-infrastructure-with-quantum-inform
 date: 2024-01-15
 venue: 'Proceedings of the IEEE'
-citation: 'Xiaoxu Ren, Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chao Qiu, Haipeng Yao, and Xiaofei Wang. (2024). &quot;Building resilient web 3.0 infrastructure with quantum information technologies and blockchain: An ambilateral view&quot; <i>Proceedings of the IEEE</i>.'
+citation: 'Xiaoxu Ren, Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chao Qiu, Haipeng Yao, and Xiaofei Wang. (2024). &quot;Building Resilient Web 3.0 Infrastructure with Quantum Information Technologies and Blockchain: An Ambilateral View&quot; <i>Proceedings of the IEEE</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10850749/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10850749/"

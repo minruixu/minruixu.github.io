@@ -12,6 +12,16 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% comment %}Extract [TAG] prefix from publication titles and render as badge{% endcomment %}
+{% assign display_title = title %}
+{% assign venue_tag = "" %}
+{% if post.collection == 'publications' and title contains "] " %}
+  {% assign title_parts = title | split: "] " %}
+  {% assign venue_tag = title_parts[0] | remove: "[" %}
+  {% assign tag_prefix = title_parts[0] | append: "] " %}
+  {% assign display_title = title | remove_first: tag_prefix %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -27,13 +37,16 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
+      {% if post.collection == 'publications' and venue_tag != "" %}
+        <span class="pub-venue">{{ venue_tag }}</span>
+      {% endif %}
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ display_title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ display_title }}</a>
       {% endif %}
     </h2>
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -71,8 +84,6 @@
     {% elsif post.excerpt and site.read_more == 'enabled' and post.collection != 'publications' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-
-    
 
   </article>
 </div>

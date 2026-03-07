@@ -1,11 +1,11 @@
 ---
-title: "[JSTSP] Generative ai-empowered simulation for autonomous driving in vehicular mixed reality metaverses"
+title: "[JSTSP] Generative AI-Empowered Simulation for Autonomous Driving in Vehicular Mixed Reality Metaverses"
 collection: publications
 category: manuscripts
 permalink: /publication/generative-ai-empowered-simulation-for-autonomous-driving-in
 date: 2023-01-28
 venue: 'IEEE Journal of Selected Topics in Signal Processing'
-citation: 'Minrui Xu, Dusit Niyato, Junlong Chen, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Generative ai-empowered simulation for autonomous driving in vehicular mixed reality metaverses&quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Junlong Chen, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Generative AI-Empowered Simulation for Autonomous Driving in Vehicular Mixed Reality Metaverses&quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10177684/
 arxiv_id: "2302.08418"
 abstract_source_label: "arXiv"

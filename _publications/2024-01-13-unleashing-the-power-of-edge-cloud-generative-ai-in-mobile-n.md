@@ -1,11 +1,11 @@
 ---
-title: "[CST] Unleashing the power of edge-cloud generative ai in mobile networks: A survey of aigc services"
+title: "[CST] Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services"
 collection: publications
 category: manuscripts
 permalink: /publication/unleashing-the-power-of-edge-cloud-generative-ai-in-mobile-n
 date: 2024-01-13
 venue: 'IEEE Communications Surveys & Tutorials'
-citation: 'Minrui Xu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin Shen, et al. (2024). &quot;Unleashing the power of edge-cloud generative ai in mobile networks: A survey of aigc services&quot; <i>IEEE Communications Surveys & Tutorials</i>.'
+citation: 'Minrui Xu, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin Shen, et al. (2024). &quot;Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services&quot; <i>IEEE Communications Surveys & Tutorials</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10398474/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10398474/"

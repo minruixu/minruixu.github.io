@@ -1,11 +1,11 @@
 ---
-title: "[TCOM] Multi-agent ddpg based resource allocation in noma-enabled satellite iot"
+title: "[TCOM] Multi-Agent DDPG Based Resource Allocation in NOMA-Enabled Satellite IoT"
 collection: publications
 category: manuscripts
 permalink: /publication/multi-agent-ddpg-based-resource-allocation-in-noma-enabled-s
 date: 2024-01-22
 venue: 'IEEE Transactions on Communications'
-citation: 'Furong Chai, Qi Zhang, Haipeng Yao, Xiangjun Xin, Fu Wang, Minrui Xu, Zehui Xiong, and Dusit Niyato. (2024). &quot;Multi-agent ddpg based resource allocation in noma-enabled satellite iot&quot; <i>IEEE Transactions on Communications</i>.'
+citation: 'Furong Chai, Qi Zhang, Haipeng Yao, Xiangjun Xin, Fu Wang, Minrui Xu, Zehui Xiong, and Dusit Niyato. (2024). &quot;Multi-Agent DDPG Based Resource Allocation in NOMA-Enabled Satellite IoT&quot; <i>IEEE Transactions on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10521838/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10521838/"

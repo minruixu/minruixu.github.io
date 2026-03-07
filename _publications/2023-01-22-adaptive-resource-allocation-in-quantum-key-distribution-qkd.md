@@ -1,11 +1,11 @@
 ---
-title: "[ICNC] Adaptive resource allocation in quantum key distribution (qkd) for federated learning"
+title: "[ICNC] Adaptive Resource Allocation in Quantum Key Distribution (QKD) for Federated Learning"
 collection: publications
 category: conferences
 permalink: /publication/adaptive-resource-allocation-in-quantum-key-distribution-qkd
 date: 2023-01-22
 venue: 'International Conference on Computing, Networking and Communications'
-citation: 'Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, and Xuemin Sherman Shen. (2023). &quot;Adaptive resource allocation in quantum key distribution (qkd) for federated learning&quot; <i>International Conference on Computing, Networking and Communications</i>.'
+citation: 'Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, and Xuemin Sherman Shen. (2023). &quot;Adaptive Resource Allocation in Quantum Key Distribution (QKD) for Federated Learning&quot; <i>International Conference on Computing, Networking and Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10074279/
 arxiv_id: "2208.11270"
 abstract_source_label: "arXiv"

@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Cooperative resource management in quantum key distribution (qkd) networks for semantic communication"
+title: "[IoTJ] Cooperative Resource Management in Quantum Key Distribution (QKD) Networks for Semantic Communication"
 collection: publications
 category: manuscripts
 permalink: /publication/cooperative-resource-management-in-quantum-key-distribution
 date: 2023-02-06
 venue: 'IEEE Internet of Things Journal'
-citation: 'Rakpong Kaewpuang, Minrui Xu, Wei Yang Bryan Lim, Dusit Niyato, Han Yu, Jiawen Kang, and Xuemin Shen. (2023). &quot;Cooperative resource management in quantum key distribution (qkd) networks for semantic communication&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Rakpong Kaewpuang, Minrui Xu, Wei Yang Bryan Lim, Dusit Niyato, Han Yu, Jiawen Kang, and Xuemin Shen. (2023). &quot;Cooperative Resource Management in Quantum Key Distribution (QKD) Networks for Semantic Communication&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10207065/
 arxiv_id: "2209.11957"
 abstract_source_label: "arXiv"

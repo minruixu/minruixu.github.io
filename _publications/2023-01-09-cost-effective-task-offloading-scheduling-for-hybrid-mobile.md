@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Cost-effective task offloading scheduling for hybrid mobile edge-quantum computing"
+title: "[Preprint] Cost-Effective Task Offloading Scheduling for Hybrid Mobile Edge-Quantum Computing"
 collection: publications
 category: preprints
 permalink: /publication/cost-effective-task-offloading-scheduling-for-hybrid-mobile
 date: 2023-01-09
 venue: 'arXiv preprint arXiv:2306.14588'
-citation: 'Ziqiang Ye, Yulan Gao, Yue Xiao, Minrui Xu, Han Yu, and Dusit Niyato. (2023). &quot;Cost-effective task offloading scheduling for hybrid mobile edge-quantum computing&quot; <i>arXiv preprint arXiv:2306.14588</i>.'
+citation: 'Ziqiang Ye, Yulan Gao, Yue Xiao, Minrui Xu, Han Yu, and Dusit Niyato. (2023). &quot;Cost-Effective Task Offloading Scheduling for Hybrid Mobile Edge-Quantum Computing&quot; <i>arXiv preprint arXiv:2306.14588</i>.'
 paperurl: https://arxiv.org/abs/2306.14588
 arxiv_id: "2306.14588"
 abstract_source_label: "arXiv"

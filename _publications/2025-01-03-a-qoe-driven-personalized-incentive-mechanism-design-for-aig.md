@@ -1,11 +1,11 @@
 ---
-title: "[TMC] A qoe-driven personalized incentive mechanism design for aigc services in resource-constrained edge networks"
+title: "[TMC] A QoE-Driven Personalized Incentive Mechanism Design for AIGC Services in Resource-Constrained Edge Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/a-qoe-driven-personalized-incentive-mechanism-design-for-aig
 date: 2025-01-03
 venue: 'IEEE Transactions on Mobile Computing'
-citation: 'Hongjia Wu, Minrui Xu, Zehui Xiong, Lin Gao, Haoyuan Pan, Dusit Niyato, and Tse-Tin Chan. (2025). &quot;A qoe-driven personalized incentive mechanism design for aigc services in resource-constrained edge networks&quot; <i>IEEE Transactions on Mobile Computing</i>.'
+citation: 'Hongjia Wu, Minrui Xu, Zehui Xiong, Lin Gao, Haoyuan Pan, Dusit Niyato, and Tse-Tin Chan. (2025). &quot;A QoE-Driven Personalized Incentive Mechanism Design for AIGC Services in Resource-Constrained Edge Networks&quot; <i>IEEE Transactions on Mobile Computing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/11217235/
 arxiv_id: "2508.16251"
 abstract_source_label: "arXiv"

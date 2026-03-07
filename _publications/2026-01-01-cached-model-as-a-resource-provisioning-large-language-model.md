@@ -1,11 +1,11 @@
 ---
-title: "[ToN] Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks"
+title: "[ToN] Cached Model-as-a-Resource: Provisioning Large Language Model Agents for Edge Intelligence in Space-Air-Ground Integrated Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/cached-model-as-a-resource-provisioning-large-language-model
 date: 2026-01-01
 venue: 'IEEE Transactions on Networking'
-citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2026). &quot;Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks&quot; <i>IEEE Transactions on Networking</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2026). &quot;Cached Model-as-a-Resource: Provisioning Large Language Model Agents for Edge Intelligence in Space-Air-Ground Integrated Networks&quot; <i>IEEE Transactions on Networking</i>.'
 paperurl: https://ieeexplore.ieee.org/document/11352984/
 arxiv_id: "2403.05826"
 abstract_source_label: "arXiv"

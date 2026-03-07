@@ -1,11 +1,11 @@
 ---
-title: "[GlobeCom] Stochastic resource allocation in quantum key distribution for secure federated learning"
+title: "[GlobeCom] Stochastic Resource Allocation in Quantum Key Distribution for Secure Federated Learning"
 collection: publications
 category: conferences
 permalink: /publication/stochastic-resource-allocation-in-quantum-key-distribution-f
 date: 2022-01-27
 venue: 'IEEE Global Communications Conference'
-citation: 'Minrui Xu, Wei Chong Ng, Dusit Niyato, Han Yu, Chunyan Miao, Dong In Kim, and Xuemin Sherman Shen. (2022). &quot;Stochastic resource allocation in quantum key distribution for secure federated learning&quot; <i>IEEE Global Communications Conference</i>.'
+citation: 'Minrui Xu, Wei Chong Ng, Dusit Niyato, Han Yu, Chunyan Miao, Dong In Kim, and Xuemin Sherman Shen. (2022). &quot;Stochastic Resource Allocation in Quantum Key Distribution for Secure Federated Learning&quot; <i>IEEE Global Communications Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10001071/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10001071/"

@@ -1,11 +1,11 @@
 ---
-title: "[TNNLS] Toward quantum federated learning"
+title: "[TNNLS] Toward Quantum Federated Learning"
 collection: publications
 category: manuscripts
 permalink: /publication/toward-quantum-federated-learning
 date: 2025-01-05
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
-citation: 'Chao Ren, Rudai Yan, Huihui Zhu, Han Yu, Minrui Xu, Yuan Shen, Yan Xu, Ming Xiao, Zhao Yang Dong, Mikael Skoglund, et al. (2025). &quot;Toward quantum federated learning&quot; <i>IEEE Transactions on Neural Networks and Learning Systems</i>.'
+citation: 'Chao Ren, Rudai Yan, Huihui Zhu, Han Yu, Minrui Xu, Yuan Shen, Yan Xu, Ming Xiao, Zhao Yang Dong, Mikael Skoglund, et al. (2025). &quot;Toward Quantum Federated Learning&quot; <i>IEEE Transactions on Neural Networks and Learning Systems</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10988887/
 abstract_source_label: "IEEE Xplore"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10988887/"

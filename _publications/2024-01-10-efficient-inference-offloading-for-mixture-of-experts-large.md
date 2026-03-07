@@ -1,11 +1,11 @@
 ---
-title: "[Electronics] Efficient inference offloading for mixture-of-experts large language models in internet of medical things"
+title: "[Electronics] Efficient Inference Offloading for Mixture-of-Experts Large Language Models in Internet of Medical Things"
 collection: publications
 category: manuscripts
 permalink: /publication/efficient-inference-offloading-for-mixture-of-experts-large
 date: 2024-01-10
 venue: 'Electronics'
-citation: 'Xiaoming Yuan, Weixuan Kong, Zhenyu Luo, and Minrui Xu. (2024). &quot;Efficient inference offloading for mixture-of-experts large language models in internet of medical things&quot; <i>Electronics</i>.'
+citation: 'Xiaoming Yuan, Weixuan Kong, Zhenyu Luo, and Minrui Xu. (2024). &quot;Efficient Inference Offloading for Mixture-of-Experts Large Language Models in Internet of Medical Things&quot; <i>Electronics</i>.'
 paperurl: https://doi.org/10.3390/electronics13112077
 abstract_source_label: "MDPI AG"
 abstract_source_url: "https://www.mdpi.com/2079-9292/13/11/2077"

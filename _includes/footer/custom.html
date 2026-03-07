@@ -11,18 +11,4 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- al-folio: Scroll Progress Bar -->
-<div id="progress-bar"></div>
-<script>
-(function() {
-  var bar = document.getElementById('progress-bar');
-  if (!bar) return;
-  window.addEventListener('scroll', function() {
-    var winH = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-    var pct = winH > 0 ? (window.scrollY / winH) * 100 : 0;
-    bar.style.width = pct + '%';
-  });
-})();
-</script>
-
 <!-- end custom footer snippets -->
