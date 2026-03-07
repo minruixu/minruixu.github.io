@@ -44,15 +44,15 @@ His research interests include **6G Wireless Networking**, **Generative AI & LLM
 
 ## Selected Publications
 
-1. [ToN] Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in SAGIN,  
+1. [ToN] Cached Model-as-a-Resource: Provisioning Large Language Model Agents for Edge Intelligence in SAGIN,
    **Minrui Xu**, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. *IEEE Trans. Networking*, 2026.
-2. [CST] Unleashing the power of edge-cloud generative AI in mobile networks: A survey of AIGC services,  
+2. [CST] Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services,
    **Minrui Xu**, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin Shen, et al. *IEEE Commun. Surveys Tuts.*, vol. 26, 2024.
-3. [WCM] When large language model agents meet 6G networks: Perception, grounding, and alignment,  
+3. [WCM] When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment,
    **Minrui Xu**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Dong In Kim, and Khaled B. Letaief. *IEEE Wireless Commun.*, vol. 31, 2024.
-4. [CST] A full dive into realizing the edge-enabled metaverse: Visions, enabling technologies, and challenges,  
+4. [CST] A Full Dive into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges,
    **Minrui Xu**, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Shen, and Chunyan Miao. *IEEE Commun. Surveys Tuts.*, vol. 25, 2023.
-5. [JSAC] Epvisa: Efficient auction design for real-time physical-virtual synchronization in the metaverse,  
+5. [JSAC] EPViSA: Efficient Auction Design for Real-Time Physical-Virtual Synchronization in the Metaverse,
    **Minrui Xu**, Dusit Niyato, Benjamin Wright, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. *IEEE JSAC*, vol. 42, 2023.
 
 [See all publications >>](/publications/)
