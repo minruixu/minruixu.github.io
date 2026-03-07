@@ -1,0 +1,34 @@
+---
+title: "[WWW] Multiple-agent deep reinforcement learning for avatar migration in vehicular metaverses"
+collection: publications
+category: conferences
+permalink: /publication/multiple-agent-deep-reinforcement-learning-for-avatar-migrat
+date: 2023-01-26
+venue: 'Companion Proceedings of the ACM Web Conference'
+citation: 'Junlong Chen, Jiangtian Nie, Minrui Xu, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Yongju Tong, and Wenchao Jiang. (2023). &quot;Multiple-agent deep reinforcement learning for avatar migration in vehicular metaverses&quot; <i>Companion Proceedings of the ACM Web Conference</i>.'
+paperurl: https://doi.org/10.1145/3543873.3587573
+abstract_source_label: "OpenAlex"
+abstract_source_url: "https://openalex.org/W4367310666"
+abstract_text: |-
+  Vehicular Metaverses are widely considered as the next Internet revolution to build a 3D
+  virtual world with immersive virtual-real interaction for passengers and drivers. In
+  vehicular Metaverse applications, avatars are digital representations of on-board users to
+  obtain and manage immersive vehicular services (i.e., avatar tasks) in Metaverses and the
+  data they generate. However, traditional Internet of Vehicles (IoV) data management
+  solutions have serious data security risks and privacy protection. Fortunately, blockchain-
+  based Web 3.0 enables avatars to have an ownership identity to securely manage the data
+  owned by users in a decentralized and transparent manner. To ensure users’ immersive
+  experiences and securely manage their data, avatar tasks often require significant computing
+  resources. Therefore, it is impractical for the vehicles to process avatar tasks locally,
+  massive computation resources are needed to support the avatar tasks. To this end,
+  offloading avatar tasks to nearby RoadSide Units (RSUs) is a promising solution to avoid
+  computation overload. To ensure real-time and continuous Metaverse services, the avatar
+  tasks should be migrated among the RSUs when the vehicle navigation. It is challenging for
+  the vehicles to independently decide whether migrate or not according to current and future
+  avatar states. Therefore, in this paper, we propose a new avatar task migration framework
+  for vehicular Metaverses. We then formulate the avatar task migration problem as a Partially
+  Observable Markov Decision Process (POMDP), and apply a Multi-Agent Deep Reinforcement
+  Learning (MADRL) algorithm to dynamically make migration decisions for avatar tasks.
+  Numerous results show that our proposed algorithm outperforms existing baselines for avatar
+  task migration and enables immersive vehicular Metaverse services.
+---

@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap" style="font-size:0.82rem; margin-bottom:1em;">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+<script src="{{ base_path }}/assets/js/bibtex-copy.js" defer></script>
+
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        <div class="pub-section">
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+    {% if title_shown %}
+        </div>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <div class="pub-section">
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+  </div>
+{% endif %}

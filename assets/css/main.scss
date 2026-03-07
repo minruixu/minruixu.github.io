@@ -1,0 +1,94 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;
+
+.publication-overview {
+  margin: 0 0 2rem;
+  padding: 1.5rem;
+  border: 1px solid rgba(17, 24, 39, 0.08);
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(248, 250, 252, 0.95) 0%, rgba(255, 255, 255, 0.98) 100%);
+}
+
+.publication-overview__title {
+  margin: 0 0 1rem;
+}
+
+.publication-overview__figure {
+  margin: 0 0 1.25rem;
+}
+
+.publication-overview__figure img {
+  display: block;
+  width: 100%;
+  max-width: 920px;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 1px solid rgba(17, 24, 39, 0.10);
+  background: #fff;
+}
+
+.publication-overview__caption {
+  margin-top: 0.75rem;
+  font-size: 0.92rem;
+  color: #4b5563;
+}
+
+.publication-overview__source {
+  display: inline-block;
+  margin-left: 0.4rem;
+}
+
+.publication-overview__abstract h3 {
+  margin: 0 0 0.5rem;
+}
+
+.publication-overview__abstract p {
+  margin-bottom: 0.75rem;
+}
+
+.publication-overview__meta {
+  margin-bottom: 0;
+  font-size: 0.92rem;
+  color: #4b5563;
+}

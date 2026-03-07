@@ -1,0 +1,16 @@
+<script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
+
+{% include analytics.html %}
+
+<script>
+(function(){
+  var bar = document.getElementById('progress-bar');
+  if (!bar) return;
+  window.addEventListener('scroll', function(){
+    var h = document.documentElement, b = document.body;
+    var st = h.scrollTop || b.scrollTop;
+    var sh = (h.scrollHeight || b.scrollHeight) - h.clientHeight;
+    bar.style.width = (st / sh * 100) + '%';
+  });
+})();
+</script>

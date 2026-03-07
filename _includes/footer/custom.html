@@ -1,0 +1,28 @@
+<!-- start custom footer snippets -->
+
+<!-- MathJax -->
+<script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+
+<!-- Mermaid -->
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({startOnLoad:true, theme:'default'});
+    await mermaid.run({querySelector:'code.language-mermaid'});
+</script>
+
+<!-- al-folio: Scroll Progress Bar -->
+<div id="progress-bar"></div>
+<script>
+(function() {
+  var bar = document.getElementById('progress-bar');
+  if (!bar) return;
+  window.addEventListener('scroll', function() {
+    var winH = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var pct = winH > 0 ? (window.scrollY / winH) * 100 : 0;
+    bar.style.width = pct + '%';
+  });
+})();
+</script>
+
+<!-- end custom footer snippets -->
