@@ -1,11 +1,11 @@
 ---
-title: "[TVT] Mechanism design for semantic communication in uav-assisted metaverse: A combinatorial auction approach"
+title: "[TVT] Mechanism Design for Semantic Communication in UAV-Assisted Metaverse: A Combinatorial Auction Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/mechanism-design-for-semantic-communication-in-uav-assisted
 date: 2023-02-05
 venue: 'IEEE Transactions on Vehicular Technology'
-citation: 'Zi Qin Liew, Minrui Xu, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, and Dong In Kim. (2023). &quot;Mechanism design for semantic communication in uav-assisted metaverse: A combinatorial auction approach&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
+citation: 'Zi Qin Liew, Minrui Xu, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, and Dong In Kim. (2023). &quot;Mechanism Design for Semantic Communication in UAV-Assisted Metaverse: A Combinatorial Auction Approach&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10255282/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10255282/"

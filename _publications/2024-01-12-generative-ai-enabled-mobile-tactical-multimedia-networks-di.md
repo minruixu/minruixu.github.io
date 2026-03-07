@@ -1,11 +1,11 @@
 ---
-title: "[ComMag] Generative ai-enabled mobile tactical multimedia networks: Distribution, generation, and perception"
+title: "[ComMag] Generative AI-Enabled Mobile Tactical Multimedia Networks: Distribution, Generation, and Perception"
 collection: publications
 category: manuscripts
 permalink: /publication/generative-ai-enabled-mobile-tactical-multimedia-networks-di
 date: 2024-01-12
 venue: 'IEEE Communications Magazine'
-citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Song Guo, Yuguang Fang, and Dong In Kim. (2024). &quot;Generative ai-enabled mobile tactical multimedia networks: Distribution, generation, and perception&quot; <i>IEEE Communications Magazine</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Song Guo, Yuguang Fang, and Dong In Kim. (2024). &quot;Generative AI-Enabled Mobile Tactical Multimedia Networks: Distribution, Generation, and Perception&quot; <i>IEEE Communications Magazine</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10713120/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10713120/"

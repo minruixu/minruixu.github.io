@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Multiagent federated reinforcement learning for secure incentive mechanism in intelligent cyber–physical systems"
+title: "[IoTJ] Multiagent Federated Reinforcement Learning for Secure Incentive Mechanism in Intelligent Cyber--Physical Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/multiagent-federated-reinforcement-learning-for-secure-incen
 date: 2021-02-17
 venue: 'IEEE Internet of Things Journal'
-citation: 'Minrui Xu, Jialiang Peng, Brij B Gupta, Jiawen Kang, Zehui Xiong, Zhenni Li, and Ahmed A Abd El-Latif. (2021). &quot;Multiagent federated reinforcement learning for secure incentive mechanism in intelligent cyber–physical systems&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Minrui Xu, Jialiang Peng, Brij B Gupta, Jiawen Kang, Zehui Xiong, Zhenni Li, and Ahmed A Abd El-Latif. (2021). &quot;Multiagent Federated Reinforcement Learning for Secure Incentive Mechanism in Intelligent Cyber--Physical Systems&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9434397/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/9434397/"

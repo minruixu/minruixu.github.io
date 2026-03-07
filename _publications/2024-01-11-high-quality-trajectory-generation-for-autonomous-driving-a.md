@@ -1,11 +1,11 @@
 ---
-title: "[GlobeCom] High-quality trajectory generation for autonomous driving: A lightweight federated learning-based diffusion model"
+title: "[GlobeCom] High-Quality Trajectory Generation for Autonomous Driving: A Lightweight Federated Learning-Based Diffusion Model"
 collection: publications
 category: conferences
 permalink: /publication/high-quality-trajectory-generation-for-autonomous-driving-a
 date: 2024-01-11
 venue: 'IEEE Global Communications Conference'
-citation: 'Runze Gao, Jiawen Kang, Bingkun Lai, Minrui Xu, Geng Sun, Tao Zhang, Weiting Zhang, and Dusit Yang. (2024). &quot;High-quality trajectory generation for autonomous driving: A lightweight federated learning-based diffusion model&quot; <i>IEEE Global Communications Conference</i>.'
+citation: 'Runze Gao, Jiawen Kang, Bingkun Lai, Minrui Xu, Geng Sun, Tao Zhang, Weiting Zhang, and Dusit Yang. (2024). &quot;High-Quality Trajectory Generation for Autonomous Driving: A Lightweight Federated Learning-Based Diffusion Model&quot; <i>IEEE Global Communications Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10901719/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10901719/"

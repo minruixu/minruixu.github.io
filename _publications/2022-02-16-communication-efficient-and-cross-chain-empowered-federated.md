@@ -1,11 +1,11 @@
 ---
-title: "[TNSE] Communication-efficient and cross-chain empowered federated learning for artificial intelligence of things"
+title: "[TNSE] Communication-Efficient and Cross-Chain Empowered Federated Learning for Artificial Intelligence of Things"
 collection: publications
 category: manuscripts
 permalink: /publication/communication-efficient-and-cross-chain-empowered-federated
 date: 2022-02-16
 venue: 'IEEE Transactions on Network Science and Engineering'
-citation: 'Jiawen Kang, Xuandi Li, Jiangtian Nie, Yi Liu, Minrui Xu, Zehui Xiong, Dusit Niyato, and Qiang Yan. (2022). &quot;Communication-efficient and cross-chain empowered federated learning for artificial intelligence of things&quot; <i>IEEE Transactions on Network Science and Engineering</i>.'
+citation: 'Jiawen Kang, Xuandi Li, Jiangtian Nie, Yi Liu, Minrui Xu, Zehui Xiong, Dusit Niyato, and Qiang Yan. (2022). &quot;Communication-Efficient and Cross-Chain Empowered Federated Learning for Artificial Intelligence of Things&quot; <i>IEEE Transactions on Network Science and Engineering</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9785702/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/9785702/"

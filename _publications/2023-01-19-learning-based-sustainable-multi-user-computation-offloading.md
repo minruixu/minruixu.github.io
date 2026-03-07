@@ -1,11 +1,11 @@
 ---
-title: "[ICC] Learning-based sustainable multi-user computation offloading for mobile edge-quantum computing"
+title: "[ICC] Learning-Based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing"
 collection: publications
 category: conferences
 permalink: /publication/learning-based-sustainable-multi-user-computation-offloading
 date: 2023-01-19
 venue: 'IEEE International Conference on Communications'
-citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Mingzhe Chen. (2023). &quot;Learning-based sustainable multi-user computation offloading for mobile edge-quantum computing&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Mingzhe Chen. (2023). &quot;Learning-Based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10278824/
 arxiv_id: "2211.06681"
 abstract_source_label: "arXiv"

@@ -1,11 +1,11 @@
 ---
-title: "[JSAC] Epvisa: Efficient auction design for real-time physical-virtual synchronization in the human-centric metaverse"
+title: "[JSAC] Epvisa: Efficient Auction Design for Real-Time Physical-Virtual Synchronization in the Human-Centric Metaverse"
 collection: publications
 category: manuscripts
 permalink: /publication/epvisa-efficient-auction-design-for-real-time-physical-virtu
 date: 2023-01-27
 venue: 'IEEE Journal on Selected Areas in Communications'
-citation: 'Minrui Xu, Dusit Niyato, Benjamin Wright, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Epvisa: Efficient auction design for real-time physical-virtual synchronization in the human-centric metaverse&quot; <i>IEEE Journal on Selected Areas in Communications</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Benjamin Wright, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Epvisa: Efficient Auction Design for Real-Time Physical-Virtual Synchronization in the Human-Centric Metaverse&quot; <i>IEEE Journal on Selected Areas in Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10376184/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10376184/"

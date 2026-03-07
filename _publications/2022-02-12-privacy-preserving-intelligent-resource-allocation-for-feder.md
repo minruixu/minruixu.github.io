@@ -1,11 +1,11 @@
 ---
-title: "[JSTSP] Privacy-preserving intelligent resource allocation for federated edge learning in quantum internet"
+title: "[JSTSP] Privacy-Preserving Intelligent Resource Allocation for Federated Edge Learning in Quantum Internet"
 collection: publications
 category: manuscripts
 permalink: /publication/privacy-preserving-intelligent-resource-allocation-for-feder
 date: 2022-02-12
 venue: 'IEEE Journal of Selected Topics in Signal Processing'
-citation: 'Minrui Xu, Dusit Niyato, Zhaohui Yang, Zehui Xiong, Jiawen Kang, Dong In Kim, and Xuemin Shen. (2022). &quot;Privacy-preserving intelligent resource allocation for federated edge learning in quantum internet&quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Zhaohui Yang, Zehui Xiong, Jiawen Kang, Dong In Kim, and Xuemin Shen. (2022). &quot;Privacy-Preserving Intelligent Resource Allocation for Federated Edge Learning in Quantum Internet&quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9963673/
 arxiv_id: "2210.04308"
 abstract_source_label: "arXiv"

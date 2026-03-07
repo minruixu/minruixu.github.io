@@ -1,11 +1,11 @@
 ---
-title: "[MetaCom] Joining edge-enabled metaverse services with network externality: A stackelberg game approach"
+title: "[MetaCom] Joining Edge-Enabled Metaverse Services with Network Externality: A Stackelberg Game Approach"
 collection: publications
 category: conferences
 permalink: /publication/joining-edge-enabled-metaverse-services-with-network-externa
 date: 2023-01-24
 venue: 'IEEE International Conference on Metaverse Computing, Networking and Applications'
-citation: 'Yuna Jiang, Jiawen Kang, Dusit Niyato, Xiaohu Ge, Zehui Xiong, Minrui Xu, and Ruilong Deng. (2023). &quot;Joining edge-enabled metaverse services with network externality: A stackelberg game approach&quot; <i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>.'
+citation: 'Yuna Jiang, Jiawen Kang, Dusit Niyato, Xiaohu Ge, Zehui Xiong, Minrui Xu, and Ruilong Deng. (2023). &quot;Joining Edge-Enabled Metaverse Services with Network Externality: A Stackelberg Game Approach&quot; <i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10271820/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10271820/"

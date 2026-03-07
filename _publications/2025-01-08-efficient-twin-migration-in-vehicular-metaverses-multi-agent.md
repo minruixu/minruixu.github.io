@@ -1,11 +1,11 @@
 ---
-title: "[TMC] Efficient twin migration in vehicular metaverses: Multi-agent split deep reinforcement learning with spatio-temporal trajectory generation"
+title: "[TMC] Efficient Twin Migration in Vehicular Metaverses: Multi-Agent Split Deep Reinforcement Learning with Spatio-Temporal Trajectory Generation"
 collection: publications
 category: manuscripts
 permalink: /publication/efficient-twin-migration-in-vehicular-metaverses-multi-agent
 date: 2025-01-08
 venue: 'IEEE Transactions on Mobile Computing'
-citation: 'Junlong Chen, Jiawen Kang, Minrui Xu, Fan Wu, Hongliang Zhang, Huawei Huang, Dusit Niyato, and Shiwen Mao. (2025). &quot;Efficient twin migration in vehicular metaverses: Multi-agent split deep reinforcement learning with spatio-temporal trajectory generation&quot; <i>IEEE Transactions on Mobile Computing</i>.'
+citation: 'Junlong Chen, Jiawen Kang, Minrui Xu, Fan Wu, Hongliang Zhang, Huawei Huang, Dusit Niyato, and Shiwen Mao. (2025). &quot;Efficient Twin Migration in Vehicular Metaverses: Multi-Agent Split Deep Reinforcement Learning with Spatio-Temporal Trajectory Generation&quot; <i>IEEE Transactions on Mobile Computing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10955698/
 arxiv_id: "2503.23290"
 abstract_source_label: "arXiv"

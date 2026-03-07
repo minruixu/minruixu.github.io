@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Hybrid reinforcement learning-based sustainable multi-user computation offloading for mobile edge-quantum computing"
+title: "[Preprint] Hybrid Reinforcement Learning-Based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing"
 collection: publications
 category: preprints
 permalink: /publication/hybrid-reinforcement-learning-based-sustainable-multi-user-c
 date: 2025-01-04
 venue: 'submitted to IEEE Transactions on Network and Service Management, under Major Revision'
-citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mingzhe Chen, Dong In Kim, et al. (2025). &quot;Hybrid reinforcement learning-based sustainable multi-user computation offloading for mobile edge-quantum computing&quot; <i>submitted to IEEE Transactions on Network and Service Management, under Major Revision</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mingzhe Chen, Dong In Kim, et al. (2025). &quot;Hybrid Reinforcement Learning-Based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing&quot; <i>submitted to IEEE Transactions on Network and Service Management, under Major Revision</i>.'
 paperurl: https://arxiv.org/abs/2504.08134
 arxiv_id: "2504.08134"
 abstract_source_label: "arXiv"

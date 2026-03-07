@@ -1,11 +1,11 @@
 ---
-title: "[MetaCom] Generative ai-empowered effective physical-virtual synchronization in the vehicular metaverse"
+title: "[MetaCom] Generative AI-Empowered Effective Physical-Virtual Synchronization in the Vehicular Metaverse"
 collection: publications
 category: conferences
 permalink: /publication/generative-ai-empowered-effective-physical-virtual-synchroni
 date: 2023-01-18
 venue: 'IEEE International Conference on Metaverse Computing, Networking and Applications'
-citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Generative ai-empowered effective physical-virtual synchronization in the vehicular metaverse&quot; <i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. (2023). &quot;Generative AI-Empowered Effective Physical-Virtual Synchronization in the Vehicular Metaverse&quot; <i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10271797/
 arxiv_id: "2301.07636"
 abstract_source_label: "arXiv"

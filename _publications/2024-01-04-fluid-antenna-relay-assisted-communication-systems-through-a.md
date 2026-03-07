@@ -1,11 +1,11 @@
 ---
-title: "[ICC Workshops] Fluid antenna relay assisted communication systems through antenna location optimization"
+title: "[ICC Workshops] Fluid Antenna Relay Assisted Communication Systems Through Antenna Location Optimization"
 collection: publications
 category: conferences
 permalink: /publication/fluid-antenna-relay-assisted-communication-systems-through-a
 date: 2024-01-04
 venue: 'IEEE International Conference on Communications Workshops'
-citation: 'Ruopeng Xu, Yixuan Chen, Jiawen Kang, Minrui Xu, Zhaohui Yang, Chongwen Huang, and Niyato Dusit. (2024). &quot;Fluid antenna relay assisted communication systems through antenna location optimization&quot; <i>IEEE International Conference on Communications Workshops</i>.'
+citation: 'Ruopeng Xu, Yixuan Chen, Jiawen Kang, Minrui Xu, Zhaohui Yang, Chongwen Huang, and Niyato Dusit. (2024). &quot;Fluid Antenna Relay Assisted Communication Systems Through Antenna Location Optimization&quot; <i>IEEE International Conference on Communications Workshops</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10615841/
 arxiv_id: "2404.00628"
 abstract_source_label: "arXiv"

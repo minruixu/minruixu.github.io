@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Noma-enabled cooperative computation offloading for blockchain-empowered internet of things: A learning approach"
+title: "[IoTJ] NOMA-Enabled Cooperative Computation Offloading for Blockchain-Empowered Internet of Things: A Learning Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/noma-enabled-cooperative-computation-offloading-for-blockcha
 date: 2020-02-18
 venue: 'IEEE Internet of Things Journal'
-citation: 'Zhenni Li, Minrui Xu, Jiangtian Nie, Jiawen Kang, Wuhui Chen, and Shengli Xie. (2020). &quot;Noma-enabled cooperative computation offloading for blockchain-empowered internet of things: A learning approach&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Zhenni Li, Minrui Xu, Jiangtian Nie, Jiawen Kang, Wuhui Chen, and Shengli Xie. (2020). &quot;NOMA-Enabled Cooperative Computation Offloading for Blockchain-Empowered Internet of Things: A Learning Approach&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9167270/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/9167270/"

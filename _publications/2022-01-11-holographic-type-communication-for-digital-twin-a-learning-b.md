@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Holographic-type communication for digital twin: A learning-based auction approach"
+title: "[Preprint] Holographic-Type Communication for Digital Twin: A Learning-Based Auction Approach"
 collection: publications
 category: preprints
 permalink: /publication/holographic-type-communication-for-digital-twin-a-learning-b
 date: 2022-01-11
 venue: 'arXiv preprint arXiv:2211.01016'
-citation: 'XiuYu Zhang, Minrui Xu, Rui Tan, and Dusit Niyato. (2022). &quot;Holographic-type communication for digital twin: A learning-based auction approach&quot; <i>arXiv preprint arXiv:2211.01016</i>.'
+citation: 'XiuYu Zhang, Minrui Xu, Rui Tan, and Dusit Niyato. (2022). &quot;Holographic-Type Communication for Digital Twin: A Learning-Based Auction Approach&quot; <i>arXiv preprint arXiv:2211.01016</i>.'
 paperurl: https://arxiv.org/abs/2211.01016
 arxiv_id: "2211.01016"
 abstract_source_label: "arXiv"

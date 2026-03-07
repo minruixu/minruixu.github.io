@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Covertcombench: The first domain-specific testbed for llms in wireless covert communication"
+title: "[Preprint] CovertComBench: The First Domain-Specific Testbed for LLMs in Wireless Covert Communication"
 collection: publications
 category: preprints
 permalink: /publication/covertcombench-the-first-domain-specific-testbed-for-llms-in
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2601.18315'
-citation: 'Zhaozhi Liu, Jianrui Chen, Yuanai Xie, Yuan Jiang, Minrui Xu, Xiao Zhang, Peng Lai, and Zhenyu Zhou. (2026). &quot;Covertcombench: The first domain-specific testbed for llms in wireless covert communication&quot; <i>arXiv preprint arXiv:2601.18315</i>.'
+citation: 'Zhaozhi Liu, Jianrui Chen, Yuanai Xie, Yuan Jiang, Minrui Xu, Xiao Zhang, Peng Lai, and Zhenyu Zhou. (2026). &quot;CovertComBench: The First Domain-Specific Testbed for LLMs in Wireless Covert Communication&quot; <i>arXiv preprint arXiv:2601.18315</i>.'
 paperurl: https://arxiv.org/abs/2601.18315
 arxiv_id: "2601.18315"
 abstract_source_label: "arXiv"

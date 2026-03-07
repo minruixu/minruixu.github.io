@@ -1,11 +1,11 @@
 ---
-title: "[VTC] A learning-based incentive mechanism for mobile aigc service in decentralized internet of vehicles"
+title: "[VTC] A Learning-Based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles"
 collection: publications
 category: conferences
 permalink: /publication/a-learning-based-incentive-mechanism-for-mobile-aigc-service
 date: 2023-01-25
 venue: 'IEEE Vehicular Technology Conference'
-citation: 'Jiani Fan, Minrui Xu, Ziyao Liu, Huanyi Ye, Chaojie Gu, Dusit Niyato, and Kwok-Yan Lam. (2023). &quot;A learning-based incentive mechanism for mobile aigc service in decentralized internet of vehicles&quot; <i>IEEE Vehicular Technology Conference</i>.'
+citation: 'Jiani Fan, Minrui Xu, Ziyao Liu, Huanyi Ye, Chaojie Gu, Dusit Niyato, and Kwok-Yan Lam. (2023). &quot;A Learning-Based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles&quot; <i>IEEE Vehicular Technology Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10333689/
 arxiv_id: "2403.20151"
 abstract_source_label: "arXiv"

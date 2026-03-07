@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Enhancing federated learning performance on heterogeneous iot devices using generative artificial intelligence with resource scheduling"
+title: "[IoTJ] Enhancing Federated Learning Performance on Heterogeneous IoT Devices Using Generative Artificial Intelligence with Resource Scheduling"
 collection: publications
 category: manuscripts
 permalink: /publication/enhancing-federated-learning-performance-on-heterogeneous-io
 date: 2024-01-18
 venue: 'IEEE Internet of Things Journal'
-citation: 'Zezhao Meng, Zhi Li, Xiangwang Hou, Minrui Xu, Yi Xia, Zekai Zhang, and Shaoyang Song. (2024). &quot;Enhancing federated learning performance on heterogeneous iot devices using generative artificial intelligence with resource scheduling&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Zezhao Meng, Zhi Li, Xiangwang Hou, Minrui Xu, Yi Xia, Zekai Zhang, and Shaoyang Song. (2024). &quot;Enhancing Federated Learning Performance on Heterogeneous IoT Devices Using Generative Artificial Intelligence with Resource Scheduling&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10811919/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10811919/"

@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Elastic entangled pair and qubit resource management in quantum cloud computing"
+title: "[Preprint] Elastic Entangled Pair and Qubit Resource Management in Quantum Cloud Computing"
 collection: publications
 category: preprints
 permalink: /publication/elastic-entangled-pair-and-qubit-resource-management-in-quan
 date: 2023-01-10
 venue: 'arXiv preprint arXiv:2307.13185'
-citation: 'Rakpong Kaewpuang, Minrui Xu, Dinh Thai Hoang, Dusit Niyato, Han Yu, Ruidong Li, Zehui Xiong, and Jiawen Kang. (2023). &quot;Elastic entangled pair and qubit resource management in quantum cloud computing&quot; <i>arXiv preprint arXiv:2307.13185</i>.'
+citation: 'Rakpong Kaewpuang, Minrui Xu, Dinh Thai Hoang, Dusit Niyato, Han Yu, Ruidong Li, Zehui Xiong, and Jiawen Kang. (2023). &quot;Elastic Entangled Pair and Qubit Resource Management in Quantum Cloud Computing&quot; <i>arXiv preprint arXiv:2307.13185</i>.'
 paperurl: https://arxiv.org/abs/2307.13185
 arxiv_id: "2307.13185"
 abstract_source_label: "arXiv"

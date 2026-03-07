@@ -1,11 +1,11 @@
 ---
-title: "[TSC] pfedcal: Lightweight personalized federated learning with adaptive calibration strategy"
+title: "[TSC] pFedCal: Lightweight Personalized Federated Learning with Adaptive Calibration Strategy"
 collection: publications
 category: manuscripts
 permalink: /publication/pfedcal-lightweight-personalized-federated-learning-with-ada
 date: 2025-01-07
 venue: 'IEEE Transactions on Services Computing'
-citation: 'Dongshang Deng, Xuangou Wu, Tao Zhang, Chaocan Xiang, Wei Zhao, Minrui Xu, Jiawen Kang, Zhu Han, and Dusit Niyato. (2025). &quot;pfedcal: Lightweight personalized federated learning with adaptive calibration strategy&quot; <i>IEEE Transactions on Services Computing</i>.'
+citation: 'Dongshang Deng, Xuangou Wu, Tao Zhang, Chaocan Xiang, Wei Zhao, Minrui Xu, Jiawen Kang, Zhu Han, and Dusit Niyato. (2025). &quot;pFedCal: Lightweight Personalized Federated Learning with Adaptive Calibration Strategy&quot; <i>IEEE Transactions on Services Computing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10937074/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10937074/"

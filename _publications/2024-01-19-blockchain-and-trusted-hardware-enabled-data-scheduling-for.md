@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Blockchain and trusted hardware-enabled data scheduling for edge learning in wireless iiot"
+title: "[IoTJ] Blockchain and Trusted Hardware-Enabled Data Scheduling for Edge Learning in Wireless IIoT"
 collection: publications
 category: manuscripts
 permalink: /publication/blockchain-and-trusted-hardware-enabled-data-scheduling-for
 date: 2024-01-19
 venue: 'IEEE Internet of Things Journal'
-citation: 'Tianhao Liu, Jiqiang Liu, Tao Zhang, Jian Wang, Zhenhui Yuan, Minrui Xu, Di Zhai, Tianxi Wang, Hongyang Du, and Dusit Niyato. (2024). &quot;Blockchain and trusted hardware-enabled data scheduling for edge learning in wireless iiot&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Tianhao Liu, Jiqiang Liu, Tao Zhang, Jian Wang, Zhenhui Yuan, Minrui Xu, Di Zhai, Tianxi Wang, Hongyang Du, and Dusit Niyato. (2024). &quot;Blockchain and Trusted Hardware-Enabled Data Scheduling for Edge Learning in Wireless IIoT&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10636789/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10636789/"

@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Qfdsa: A quantum-secured federated learning system for smart grid dynamic security assessment"
+title: "[IoTJ] Qfdsa: A Quantum-Secured Federated Learning System for Smart Grid Dynamic Security Assessment"
 collection: publications
 category: manuscripts
 permalink: /publication/qfdsa-a-quantum-secured-federated-learning-system-for-smart
 date: 2023-02-02
 venue: 'IEEE Internet of Things Journal'
-citation: 'Chao Ren, Rudai Yan, Minrui Xu, Han Yu, Yan Xu, Dusit Niyato, and Zhao Yang Dong. (2023). &quot;Qfdsa: A quantum-secured federated learning system for smart grid dynamic security assessment&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Chao Ren, Rudai Yan, Minrui Xu, Han Yu, Yan Xu, Dusit Niyato, and Zhao Yang Dong. (2023). &quot;Qfdsa: A Quantum-Secured Federated Learning System for Smart Grid Dynamic Security Assessment&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10285602/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10285602/"

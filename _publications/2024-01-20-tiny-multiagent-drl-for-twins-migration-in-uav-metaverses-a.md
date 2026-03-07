@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Tiny multiagent drl for twins migration in uav metaverses: A multileader multifollower stackelberg game approach"
+title: "[IoTJ] Tiny Multiagent DRL for Twins Migration in UAV Metaverses: A Multileader Multifollower Stackelberg Game Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/tiny-multiagent-drl-for-twins-migration-in-uav-metaverses-a
 date: 2024-01-20
 venue: 'IEEE Internet of Things Journal'
-citation: 'Jiawen Kang, Yue Zhong, Minrui Xu, Jiangtian Nie, Jinbo Wen, Hongyang Du, Dongdong Ye, Xumin Huang, Dusit Niyato, and Shengli Xie. (2024). &quot;Tiny multiagent drl for twins migration in uav metaverses: A multileader multifollower stackelberg game approach&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Jiawen Kang, Yue Zhong, Minrui Xu, Jiangtian Nie, Jinbo Wen, Hongyang Du, Dongdong Ye, Xumin Huang, Dusit Niyato, and Shengli Xie. (2024). &quot;Tiny Multiagent DRL for Twins Migration in UAV Metaverses: A Multileader Multifollower Stackelberg Game Approach&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10416899/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10416899/"

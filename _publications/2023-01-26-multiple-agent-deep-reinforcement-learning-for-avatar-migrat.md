@@ -1,11 +1,11 @@
 ---
-title: "[WWW] Multiple-agent deep reinforcement learning for avatar migration in vehicular metaverses"
+title: "[WWW] Multiple-Agent Deep Reinforcement Learning for Avatar Migration in Vehicular Metaverses"
 collection: publications
 category: conferences
 permalink: /publication/multiple-agent-deep-reinforcement-learning-for-avatar-migrat
 date: 2023-01-26
 venue: 'Companion Proceedings of the ACM Web Conference'
-citation: 'Junlong Chen, Jiangtian Nie, Minrui Xu, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Yongju Tong, and Wenchao Jiang. (2023). &quot;Multiple-agent deep reinforcement learning for avatar migration in vehicular metaverses&quot; <i>Companion Proceedings of the ACM Web Conference</i>.'
+citation: 'Junlong Chen, Jiangtian Nie, Minrui Xu, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Yongju Tong, and Wenchao Jiang. (2023). &quot;Multiple-Agent Deep Reinforcement Learning for Avatar Migration in Vehicular Metaverses&quot; <i>Companion Proceedings of the ACM Web Conference</i>.'
 paperurl: https://doi.org/10.1145/3543873.3587573
 abstract_source_label: "OpenAlex"
 abstract_source_url: "https://openalex.org/W4367310666"

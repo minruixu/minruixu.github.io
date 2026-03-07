@@ -1,11 +1,11 @@
 ---
-title: "[BSC] Entangled pair resource allocation under uncertain fidelity requirements"
+title: "[BSC] Entangled Pair Resource Allocation under Uncertain Fidelity Requirements"
 collection: publications
 category: conferences
 permalink: /publication/entangled-pair-resource-allocation-under-uncertain-fidelity
 date: 2023-01-21
 venue: 'Biennial Symposium on Communications'
-citation: 'Rakpong Kaewpuang, Minrui Xu, Stephen John Turner, Dusit Niyato, Han Yu, and Dong In Kim. (2023). &quot;Entangled pair resource allocation under uncertain fidelity requirements&quot; <i>Biennial Symposium on Communications</i>.'
+citation: 'Rakpong Kaewpuang, Minrui Xu, Stephen John Turner, Dusit Niyato, Han Yu, and Dong In Kim. (2023). &quot;Entangled Pair Resource Allocation under Uncertain Fidelity Requirements&quot; <i>Biennial Symposium on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10201812/
 arxiv_id: "2304.04425"
 abstract_source_label: "arXiv"

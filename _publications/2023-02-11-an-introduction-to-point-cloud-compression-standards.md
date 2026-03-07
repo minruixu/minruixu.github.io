@@ -1,11 +1,11 @@
 ---
-title: "[GetMobile] An introduction to point cloud compression standards"
+title: "[GetMobile] An Introduction to Point Cloud Compression Standards"
 collection: publications
 category: manuscripts
 permalink: /publication/an-introduction-to-point-cloud-compression-standards
 date: 2023-02-11
 venue: 'GetMobile: Mobile Computing and Communications'
-citation: 'Anthony Chen, Shiwen Mao, Zhu Li, Minrui Xu, Hongliang Zhang, Dusit Niyato, and Zhu Han. (2023). &quot;An introduction to point cloud compression standards&quot; <i>GetMobile: Mobile Computing and Communications</i>.'
+citation: 'Anthony Chen, Shiwen Mao, Zhu Li, Minrui Xu, Hongliang Zhang, Dusit Niyato, and Zhu Han. (2023). &quot;An Introduction to Point Cloud Compression Standards&quot; <i>GetMobile: Mobile Computing and Communications</i>.'
 paperurl: https://doi.org/10.1145/3599184.3599188
 abstract_source_label: "OpenAlex"
 abstract_source_url: "https://openalex.org/W4377223899"

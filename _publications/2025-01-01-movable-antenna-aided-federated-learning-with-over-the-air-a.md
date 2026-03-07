@@ -1,11 +1,11 @@
 ---
-title: "[ICC] Movable antenna-aided federated learning with over-the-air aggregation: Joint optimization of positioning, beamforming, and user selection"
+title: "[ICC] Movable Antenna-Aided Federated Learning with over-the-Air Aggregation: Joint Optimization of Positioning, Beamforming, and User Selection"
 collection: publications
 category: conferences
 permalink: /publication/movable-antenna-aided-federated-learning-with-over-the-air-a
 date: 2025-01-01
 venue: 'IEEE International Conference on Communications'
-citation: 'Yang Zhao, Yue Xiu, Minrui Xu, and Ning Wei. (2025). &quot;Movable antenna-aided federated learning with over-the-air aggregation: Joint optimization of positioning, beamforming, and user selection&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Yang Zhao, Yue Xiu, Minrui Xu, and Ning Wei. (2025). &quot;Movable Antenna-Aided Federated Learning with over-the-Air Aggregation: Joint Optimization of Positioning, Beamforming, and User Selection&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/11161172/
 arxiv_id: "2411.06721"
 abstract_source_label: "arXiv"

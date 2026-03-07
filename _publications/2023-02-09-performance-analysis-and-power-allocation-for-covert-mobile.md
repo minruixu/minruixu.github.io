@@ -1,11 +1,11 @@
 ---
-title: "[TMC] Performance analysis and power allocation for covert mobile edge computing with ris-aided noma"
+title: "[TMC] Performance Analysis and Power Allocation for Covert Mobile Edge Computing with RIS-Aided NOMA"
 collection: publications
 category: manuscripts
 permalink: /publication/performance-analysis-and-power-allocation-for-covert-mobile
 date: 2023-02-09
 venue: 'IEEE Transactions on Mobile Computing'
-citation: 'Yanyu Cheng, Jianyuan Lu, Dusit Niyato, Biao Lyu, Minrui Xu, and Shunmin Zhu. (2023). &quot;Performance analysis and power allocation for covert mobile edge computing with ris-aided noma&quot; <i>IEEE Transactions on Mobile Computing</i>.'
+citation: 'Yanyu Cheng, Jianyuan Lu, Dusit Niyato, Biao Lyu, Minrui Xu, and Shunmin Zhu. (2023). &quot;Performance Analysis and Power Allocation for Covert Mobile Edge Computing with RIS-Aided NOMA&quot; <i>IEEE Transactions on Mobile Computing</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10210075/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10210075/"

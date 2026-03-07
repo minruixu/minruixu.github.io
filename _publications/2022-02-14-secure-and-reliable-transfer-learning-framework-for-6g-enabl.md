@@ -1,11 +1,11 @@
 ---
-title: "[WCM] Secure and reliable transfer learning framework for 6g-enabled internet of vehicles"
+title: "[WCM] Secure and Reliable Transfer Learning Framework for 6G-Enabled Internet of Vehicles"
 collection: publications
 category: manuscripts
 permalink: /publication/secure-and-reliable-transfer-learning-framework-for-6g-enabl
 date: 2022-02-14
 venue: 'IEEE Wireless Communications'
-citation: 'Minrui Xu, Dinh Thai Hoang, Jiawen Kang, Dusit Niyato, Qiang Yan, and Dong In Kim. (2022). &quot;Secure and reliable transfer learning framework for 6g-enabled internet of vehicles&quot; <i>IEEE Wireless Communications</i>.'
+citation: 'Minrui Xu, Dinh Thai Hoang, Jiawen Kang, Dusit Niyato, Qiang Yan, and Dong In Kim. (2022). &quot;Secure and Reliable Transfer Learning Framework for 6G-Enabled Internet of Vehicles&quot; <i>IEEE Wireless Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9771336/
 arxiv_id: "2111.05804"
 abstract_source_label: "arXiv"

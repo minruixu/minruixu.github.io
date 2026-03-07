@@ -7,6 +7,8 @@ author_profile: true
 
 ## Journal Reviewer
 
+### IEEE Transactions & Journals
+
 1. IEEE Journal on Selected Areas in Communications
 2. IEEE Communications Surveys & Tutorials
 3. IEEE Transactions on Networking
@@ -29,34 +31,40 @@ author_profile: true
 20. IEEE Transactions on Services Computing
 21. IEEE Transactions on Consumer Electronics
 22. IEEE Transactions on Computers
-23. IEEE Internet of Things Journal
-24. IEEE Wireless Communications
-25. IEEE Communications Magazine
-26. IEEE Network Magazine
-27. IEEE Vehicular Technology Magazine
-28. IEEE Consumer Electronics Magazine
-29. IEEE Internet of Things Magazine
-30. IEEE MultiMedia
-31. IEEE Systems Journal
-32. IEEE Networking Letters
-33. IEEE Open Journal of the Communications Society
-34. Proceedings of the IEEE
-35. ACM Computing Surveys
-36. ACM Transactions on Intelligent Systems and Technology
-37. ACM Transactions on Internet Technology
-38. ACM Transactions on Multimedia Computing, Communications, and Applications
-39. Science China Information Sciences
-40. China Communications
-41. Electronics
-42. Computers
-43. IET Communications
-44. IET Quantum Communication
-45. Frontiers of Computer Science
-46. Enterprise Information Systems
-47. Behaviour & Information Technology
-48. International Journal of Human-Computer Interaction
-49. Transactions on Emerging Telecommunications Technologies
-50. Journal of Network and Computer Applications
+
+### IEEE Magazines & Letters
+
+1. IEEE Wireless Communications
+2. IEEE Communications Magazine
+3. IEEE Network Magazine
+4. IEEE Vehicular Technology Magazine
+5. IEEE Consumer Electronics Magazine
+6. IEEE Internet of Things Magazine
+7. IEEE MultiMedia
+8. IEEE Systems Journal
+9. IEEE Networking Letters
+10. IEEE Open Journal of the Communications Society
+11. IEEE Internet of Things Journal
+12. Proceedings of the IEEE
+
+### ACM & Others
+
+1. ACM Computing Surveys
+2. ACM Transactions on Intelligent Systems and Technology
+3. ACM Transactions on Internet Technology
+4. ACM Transactions on Multimedia Computing, Communications, and Applications
+5. Science China Information Sciences
+6. China Communications
+7. Electronics
+8. Computers
+9. IET Communications
+10. IET Quantum Communication
+11. Frontiers of Computer Science
+12. Enterprise Information Systems
+13. Behaviour & Information Technology
+14. International Journal of Human-Computer Interaction
+15. Transactions on Emerging Telecommunications Technologies
+16. Journal of Network and Computer Applications
 
 ## Conference TPC Member / Reviewer
 

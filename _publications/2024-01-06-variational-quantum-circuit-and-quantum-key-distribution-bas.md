@@ -1,11 +1,11 @@
 ---
-title: "[ICC] Variational quantum circuit and quantum key distribution-based quantum federated learning: A case of smart grid dynamic security assessment"
+title: "[ICC] Variational Quantum Circuit and Quantum Key Distribution-Based Quantum Federated Learning: A Case of Smart Grid Dynamic Security Assessment"
 collection: publications
 category: conferences
 permalink: /publication/variational-quantum-circuit-and-quantum-key-distribution-bas
 date: 2024-01-06
 venue: 'IEEE International Conference on Communications'
-citation: 'Chao Ren, Minrui Xu, Han Yu, Zehui Xiong, Zhenyong Zhang, and Dusit Niyato. (2024). &quot;Variational quantum circuit and quantum key distribution-based quantum federated learning: A case of smart grid dynamic security assessment&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Chao Ren, Minrui Xu, Han Yu, Zehui Xiong, Zhenyong Zhang, and Dusit Niyato. (2024). &quot;Variational Quantum Circuit and Quantum Key Distribution-Based Quantum Federated Learning: A Case of Smart Grid Dynamic Security Assessment&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10622783/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10622783/"

@@ -1,11 +1,11 @@
 ---
-title: "[ICC] Adaptive auv hunting policy with covert communication via diffusion model"
+title: "[ICC] Adaptive AUV Hunting Policy with Covert Communication via Diffusion Model"
 collection: publications
 category: conferences
 permalink: /publication/adaptive-auv-hunting-policy-with-covert-communication-via-di
 date: 2025-01-02
 venue: 'IEEE International Conference on Communications'
-citation: 'Xu Guo, Xiangwang Hou, Minrui Xu, Jianrui Chen, Jingjing Wang, Jun Du, and Yong Ren. (2025). &quot;Adaptive auv hunting policy with covert communication via diffusion model&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Xu Guo, Xiangwang Hou, Minrui Xu, Jianrui Chen, Jingjing Wang, Jun Du, and Yong Ren. (2025). &quot;Adaptive AUV Hunting Policy with Covert Communication via Diffusion Model&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/11161197/
 arxiv_id: "2503.13547"
 abstract_source_label: "arXiv"

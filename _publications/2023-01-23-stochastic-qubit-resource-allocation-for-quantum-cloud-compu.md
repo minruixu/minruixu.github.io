@@ -1,11 +1,11 @@
 ---
-title: "[NOMS] Stochastic qubit resource allocation for quantum cloud computing"
+title: "[NOMS] Stochastic Qubit Resource Allocation for Quantum Cloud Computing"
 collection: publications
 category: conferences
 permalink: /publication/stochastic-qubit-resource-allocation-for-quantum-cloud-compu
 date: 2023-01-23
 venue: 'IEEE/IFIP Network Operations and Management Symposium'
-citation: 'Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, and Jiawen Kang. (2023). &quot;Stochastic qubit resource allocation for quantum cloud computing&quot; <i>IEEE/IFIP Network Operations and Management Symposium</i>.'
+citation: 'Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, Zehui Xiong, and Jiawen Kang. (2023). &quot;Stochastic Qubit Resource Allocation for Quantum Cloud Computing&quot; <i>IEEE/IFIP Network Operations and Management Symposium</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10154430/
 arxiv_id: "2210.12343"
 abstract_source_label: "arXiv"

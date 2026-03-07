@@ -1,11 +1,11 @@
 ---
-title: "[JSAC] Compact learning model for dynamic off-chain routing in blockchain-based iot"
+title: "[JSAC] Compact Learning Model for Dynamic Off-Chain Routing in Blockchain-Based IoT"
 collection: publications
 category: manuscripts
 permalink: /publication/compact-learning-model-for-dynamic-off-chain-routing-in-bloc
 date: 2022-02-15
 venue: 'IEEE Journal on Selected Areas in Communications'
-citation: 'Zhenni Li, Wensheng Su, Minrui Xu, Rong Yu, Dusit Niyato, and Shengli Xie. (2022). &quot;Compact learning model for dynamic off-chain routing in blockchain-based iot&quot; <i>IEEE Journal on Selected Areas in Communications</i>.'
+citation: 'Zhenni Li, Wensheng Su, Minrui Xu, Rong Yu, Dusit Niyato, and Shengli Xie. (2022). &quot;Compact Learning Model for Dynamic Off-Chain Routing in Blockchain-Based IoT&quot; <i>IEEE Journal on Selected Areas in Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9918035/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/9918035/"

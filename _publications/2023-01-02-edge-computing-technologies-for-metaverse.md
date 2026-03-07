@@ -1,11 +1,11 @@
 ---
-title: "[Book] Edge computing technologies for metaverse"
+title: "[Book] Edge Computing Technologies for Metaverse"
 collection: publications
 category: books
 permalink: /publication/edge-computing-technologies-for-metaverse
 date: 2023-01-02
 venue: 'Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches'
-citation: 'Minrui Xu and Dusit Niyato. (2023). &quot;Edge computing technologies for metaverse&quot; <i>Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches</i>.'
+citation: 'Minrui Xu and Dusit Niyato. (2023). &quot;Edge Computing Technologies for Metaverse&quot; <i>Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches</i>.'
 paperurl: https://doi.org/10.1002/9781394160013.ch8
 abstract_source_label: "OpenAlex"
 abstract_source_url: "https://openalex.org/W4387428920"

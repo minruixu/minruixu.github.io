@@ -222,8 +222,10 @@ class PublicationEnricher:
 
     def search_arxiv_exact(self, title: str) -> str | None:
         clean = self.clean_title(title)
-        if clean in ARXIV_TITLE_OVERRIDES:
-            return ARXIV_TITLE_OVERRIDES[clean]
+        normalized_clean = self.normalize_title(clean)
+        for override_title, override_id in ARXIV_TITLE_OVERRIDES.items():
+            if self.normalize_title(override_title) == normalized_clean:
+                return override_id
         if clean in self.arxiv_search_cache:
             return self.arxiv_search_cache[clean]
 

@@ -1,11 +1,11 @@
 ---
-title: "[CAMAD] Resource allocation in quantum key distribution (qkd) for space-air-ground integrated networks"
+title: "[CAMAD] Resource Allocation in Quantum Key Distribution (QKD) for Space-Air-Ground Integrated Networks"
 collection: publications
 category: conferences
 permalink: /publication/resource-allocation-in-quantum-key-distribution-qkd-for-spac
 date: 2022-01-28
 venue: 'IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks'
-citation: 'Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, and Zehui Xiong. (2022). &quot;Resource allocation in quantum key distribution (qkd) for space-air-ground integrated networks&quot; <i>IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks</i>.'
+citation: 'Rakpong Kaewpuang, Minrui Xu, Dusit Niyato, Han Yu, and Zehui Xiong. (2022). &quot;Resource Allocation in Quantum Key Distribution (QKD) for Space-Air-Ground Integrated Networks&quot; <i>IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9966894/
 arxiv_id: "2208.08009"
 abstract_source_label: "arXiv"

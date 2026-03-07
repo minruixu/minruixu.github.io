@@ -1,11 +1,11 @@
 ---
-title: "[ICC] Wireless edge-empowered metaverse: A learning-based incentive mechanism for virtual reality"
+title: "[ICC] Wireless Edge-Empowered Metaverse: A Learning-Based Incentive Mechanism for Virtual Reality"
 collection: publications
 category: conferences
 permalink: /publication/wireless-edge-empowered-metaverse-a-learning-based-incentive
 date: 2021-02-02
 venue: 'IEEE International Conference on Communications'
-citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, and Dong In Kim. (2021). &quot;Wireless edge-empowered metaverse: A learning-based incentive mechanism for virtual reality&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, and Dong In Kim. (2021). &quot;Wireless Edge-Empowered Metaverse: A Learning-Based Incentive Mechanism for Virtual Reality&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9838736/
 arxiv_id: "2111.03776"
 abstract_source_label: "arXiv"

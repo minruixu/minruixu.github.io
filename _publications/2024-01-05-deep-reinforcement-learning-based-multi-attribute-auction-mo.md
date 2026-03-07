@@ -1,11 +1,11 @@
 ---
-title: "[GAIS] Deep reinforcement learning based multi-attribute auction model for resource allocation in vehicular aigc services"
+title: "[GAIS] Deep Reinforcement Learning Based Multi-Attribute Auction Model for Resource Allocation in Vehicular AIGC Services"
 collection: publications
 category: conferences
 permalink: /publication/deep-reinforcement-learning-based-multi-attribute-auction-mo
 date: 2024-01-05
 venue: 'International Conference on Generative Artificial Intelligence and Information Security'
-citation: 'Yongju Tong, Jiawen Kang, Junlong Chen, Minrui Xu, Helin Yang, Minghui Xu, Renchao Xie, and Zehui Xiong. (2024). &quot;Deep reinforcement learning based multi-attribute auction model for resource allocation in vehicular aigc services&quot; <i>International Conference on Generative Artificial Intelligence and Information Security</i>.'
+citation: 'Yongju Tong, Jiawen Kang, Junlong Chen, Minrui Xu, Helin Yang, Minghui Xu, Renchao Xie, and Zehui Xiong. (2024). &quot;Deep Reinforcement Learning Based Multi-Attribute Auction Model for Resource Allocation in Vehicular AIGC Services&quot; <i>International Conference on Generative Artificial Intelligence and Information Security</i>.'
 paperurl: https://doi.org/10.1145/3665348.3665356
 abstract_source_label: "OpenAlex"
 abstract_source_url: "https://openalex.org/W4400268352"

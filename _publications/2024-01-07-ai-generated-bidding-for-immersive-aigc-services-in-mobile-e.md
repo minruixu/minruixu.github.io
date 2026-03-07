@@ -1,11 +1,11 @@
 ---
-title: "[ICOIN] Ai-generated bidding for immersive aigc services in mobile edge-empowered metaverse"
+title: "[ICOIN] AI-Generated Bidding for Immersive AIGC Services in Mobile Edge-Empowered Metaverse"
 collection: publications
 category: conferences
 permalink: /publication/ai-generated-bidding-for-immersive-aigc-services-in-mobile-e
 date: 2024-01-07
 venue: 'International Conference on Information Networking'
-citation: 'Zi Qin Liew, Minrui Xu, Wei Yang Bryan Lim, Dusit Niyato, and Dong In Kim. (2024). &quot;Ai-generated bidding for immersive aigc services in mobile edge-empowered metaverse&quot; <i>International Conference on Information Networking</i>.'
+citation: 'Zi Qin Liew, Minrui Xu, Wei Yang Bryan Lim, Dusit Niyato, and Dong In Kim. (2024). &quot;AI-Generated Bidding for Immersive AIGC Services in Mobile Edge-Empowered Metaverse&quot; <i>International Conference on Information Networking</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10572159/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10572159/"

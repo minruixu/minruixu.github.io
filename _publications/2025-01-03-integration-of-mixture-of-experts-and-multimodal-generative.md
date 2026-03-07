@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Integration of mixture of experts and multimodal generative ai in internet of vehicles: a survey"
+title: "[Preprint] Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey"
 collection: publications
 category: preprints
 permalink: /publication/integration-of-mixture-of-experts-and-multimodal-generative
 date: 2025-01-03
 venue: 'submitted to IEEE Transactions on Cognitive Communications and Networking, under Minor Revision'
-citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Yuguang Fang, Dong In Kim, et al. (2025). &quot;Integration of mixture of experts and multimodal generative ai in internet of vehicles: a survey&quot; <i>submitted to IEEE Transactions on Cognitive Communications and Networking, under Minor Revision</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Jiawen Kang, Zehui Xiong, Abbas Jamalipour, Yuguang Fang, Dong In Kim, et al. (2025). &quot;Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey&quot; <i>submitted to IEEE Transactions on Cognitive Communications and Networking, under Minor Revision</i>.'
 paperurl: https://arxiv.org/abs/2404.16356
 arxiv_id: "2404.16356"
 abstract_source_label: "arXiv"

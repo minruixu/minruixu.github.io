@@ -1,11 +1,11 @@
 ---
-title: "[ACM MM] One-shot-but-not-degraded federated learning"
+title: "[ACM MM] One-Shot-but-Not-Degraded Federated Learning"
 collection: publications
 category: conferences
 permalink: /publication/one-shot-but-not-degraded-federated-learning
 date: 2024-01-03
 venue: 'ACM Multimedia'
-citation: 'Hui Zeng, Minrui Xu, Tongqing Zhou, Xinyi Wu, Jiawen Kang, Zhiping Cai, and Dusit Niyato. (2024). &quot;One-shot-but-not-degraded federated learning&quot; <i>ACM Multimedia</i>.'
+citation: 'Hui Zeng, Minrui Xu, Tongqing Zhou, Xinyi Wu, Jiawen Kang, Zhiping Cai, and Dusit Niyato. (2024). &quot;One-Shot-but-Not-Degraded Federated Learning&quot; <i>ACM Multimedia</i>.'
 paperurl: https://doi.org/10.1145/3664647.3680715
 abstract_source_label: "OpenAlex"
 abstract_source_url: "https://openalex.org/W4403791634"

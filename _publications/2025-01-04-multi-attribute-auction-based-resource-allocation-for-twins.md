@@ -1,11 +1,11 @@
 ---
-title: "[TCCN] Multi-attribute auction-based resource allocation for twins migration in vehicular metaverses: A gpt-based drl approach"
+title: "[TCCN] Multi-Attribute Auction-Based Resource Allocation for Twins Migration in Vehicular Metaverses: A GPT-Based DRL Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/multi-attribute-auction-based-resource-allocation-for-twins
 date: 2025-01-04
 venue: 'IEEE Transactions on Cognitive Communications and Networking'
-citation: 'Yongju Tong, Junlong Chen, Minrui Xu, Jiawen Kang, Zehui Xiong, Dusit Niyato, Chau Yuen, and Zhu Han. (2025). &quot;Multi-attribute auction-based resource allocation for twins migration in vehicular metaverses: A gpt-based drl approach&quot; <i>IEEE Transactions on Cognitive Communications and Networking</i>.'
+citation: 'Yongju Tong, Junlong Chen, Minrui Xu, Jiawen Kang, Zehui Xiong, Dusit Niyato, Chau Yuen, and Zhu Han. (2025). &quot;Multi-Attribute Auction-Based Resource Allocation for Twins Migration in Vehicular Metaverses: A GPT-Based DRL Approach&quot; <i>IEEE Transactions on Cognitive Communications and Networking</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10608164/
 arxiv_id: "2406.05418"
 abstract_source_label: "arXiv"

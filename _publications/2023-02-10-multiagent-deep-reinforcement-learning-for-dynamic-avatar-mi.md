@@ -1,11 +1,11 @@
 ---
-title: "[IoTJ] Multiagent deep reinforcement learning for dynamic avatar migration in aiot-enabled vehicular metaverses with trajectory prediction"
+title: "[IoTJ] Multiagent Deep Reinforcement Learning for Dynamic Avatar Migration in AIoT-Enabled Vehicular Metaverses with Trajectory Prediction"
 collection: publications
 category: manuscripts
 permalink: /publication/multiagent-deep-reinforcement-learning-for-dynamic-avatar-mi
 date: 2023-02-10
 venue: 'IEEE Internet of Things Journal'
-citation: 'Junlong Chen, Jiawen Kang, Minrui Xu, Zehui Xiong, Dusit Niyato, Chuan Chen, Abbas Jamalipour, and Shengli Xie. (2023). &quot;Multiagent deep reinforcement learning for dynamic avatar migration in aiot-enabled vehicular metaverses with trajectory prediction&quot; <i>IEEE Internet of Things Journal</i>.'
+citation: 'Junlong Chen, Jiawen Kang, Minrui Xu, Zehui Xiong, Dusit Niyato, Chuan Chen, Abbas Jamalipour, and Shengli Xie. (2023). &quot;Multiagent Deep Reinforcement Learning for Dynamic Avatar Migration in AIoT-Enabled Vehicular Metaverses with Trajectory Prediction&quot; <i>IEEE Internet of Things Journal</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10185562/
 abstract_source_label: "Institute of Electrical and Electronics Engineers (IEEE)"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10185562/"

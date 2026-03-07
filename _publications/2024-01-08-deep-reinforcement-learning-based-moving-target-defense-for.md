@@ -1,11 +1,11 @@
 ---
-title: "[ICC] Deep reinforcement learning-based moving target defense for multicast in software-defined satellite networks"
+title: "[ICC] Deep Reinforcement Learning-Based Moving Target Defense for Multicast in Software-Defined Satellite Networks"
 collection: publications
 category: conferences
 permalink: /publication/deep-reinforcement-learning-based-moving-target-defense-for
 date: 2024-01-08
 venue: 'IEEE International Conference on Communications'
-citation: 'Yibo Lian, Tao Zhang, Changqiao Xu, Wei Dong, Minrui Xu, Zhenyu Xiahou, Jiawen Kang, Jiqiang Liu, and Dusit Niyato. (2024). &quot;Deep reinforcement learning-based moving target defense for multicast in software-defined satellite networks&quot; <i>IEEE International Conference on Communications</i>.'
+citation: 'Yibo Lian, Tao Zhang, Changqiao Xu, Wei Dong, Minrui Xu, Zhenyu Xiahou, Jiawen Kang, Jiqiang Liu, and Dusit Niyato. (2024). &quot;Deep Reinforcement Learning-Based Moving Target Defense for Multicast in Software-Defined Satellite Networks&quot; <i>IEEE International Conference on Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10622302/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10622302/"

@@ -1,11 +1,11 @@
 ---
-title: "[WCM] Quantum-secured space-air-ground integrated networks: Concept, framework, and case study"
+title: "[WCM] Quantum-Secured Space-Air-Ground Integrated Networks: Concept, Framework, and Case Study"
 collection: publications
 category: manuscripts
 permalink: /publication/quantum-secured-space-air-ground-integrated-networks-concept
 date: 2022-02-13
 venue: 'IEEE Wireless Communications'
-citation: 'Minrui Xu, Dusit Niyato, Zehui Xiong, Jiawen Kang, Xianbin Cao, Xuemin Sherman Shen, and Chunyan Miao. (2022). &quot;Quantum-secured space-air-ground integrated networks: Concept, framework, and case study&quot; <i>IEEE Wireless Communications</i>.'
+citation: 'Minrui Xu, Dusit Niyato, Zehui Xiong, Jiawen Kang, Xianbin Cao, Xuemin Sherman Shen, and Chunyan Miao. (2022). &quot;Quantum-Secured Space-Air-Ground Integrated Networks: Concept, Framework, and Case Study&quot; <i>IEEE Wireless Communications</i>.'
 paperurl: https://ieeexplore.ieee.org/document/9915359/
 arxiv_id: "2204.08673"
 abstract_source_label: "arXiv"

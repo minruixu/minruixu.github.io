@@ -1,11 +1,11 @@
 ---
-title: "[SWC] Hyperdimensional computing empowered federated foundation model over wireless networks for metaverse"
+title: "[SWC] Hyperdimensional Computing Empowered Federated Foundation Model over Wireless Networks for Metaverse"
 collection: publications
 category: conferences
 permalink: /publication/hyperdimensional-computing-empowered-federated-foundation-mo
 date: 2024-01-12
 venue: 'IEEE Smart World Congress'
-citation: 'Yahao Ding, Wen Shang, Minrui Xu, Zhaohui Yang, Ye Hu, Dusit Niyato, and Mohammad Shikh-Bahaei. (2024). &quot;Hyperdimensional computing empowered federated foundation model over wireless networks for metaverse&quot; <i>IEEE Smart World Congress</i>.'
+citation: 'Yahao Ding, Wen Shang, Minrui Xu, Zhaohui Yang, Ye Hu, Dusit Niyato, and Mohammad Shikh-Bahaei. (2024). &quot;Hyperdimensional Computing Empowered Federated Foundation Model over Wireless Networks for Metaverse&quot; <i>IEEE Smart World Congress</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10925099/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10925099/"

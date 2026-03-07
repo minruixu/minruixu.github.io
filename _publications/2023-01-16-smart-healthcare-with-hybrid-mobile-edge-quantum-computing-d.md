@@ -1,11 +1,11 @@
 ---
-title: "[VTC] Smart healthcare with hybrid mobile edge-quantum computing: Dynamic computation offloading for latency improvement"
+title: "[VTC] Smart Healthcare with Hybrid Mobile Edge-Quantum Computing: Dynamic Computation Offloading for Latency Improvement"
 collection: publications
 category: conferences
 permalink: /publication/smart-healthcare-with-hybrid-mobile-edge-quantum-computing-d
 date: 2023-01-16
 venue: 'IEEE Vehicular Technology Conference'
-citation: 'Ziqiaing Ye, Yulan Gao, Yue Xiao, Minrui Xu, Han Yu, and Dusit Niyato. (2023). &quot;Smart healthcare with hybrid mobile edge-quantum computing: Dynamic computation offloading for latency improvement&quot; <i>IEEE Vehicular Technology Conference</i>.'
+citation: 'Ziqiaing Ye, Yulan Gao, Yue Xiao, Minrui Xu, Han Yu, and Dusit Niyato. (2023). &quot;Smart Healthcare with Hybrid Mobile Edge-Quantum Computing: Dynamic Computation Offloading for Latency Improvement&quot; <i>IEEE Vehicular Technology Conference</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10333492/
 abstract_source_label: "IEEE"
 abstract_source_url: "https://ieeexplore.ieee.org/document/10333492/"

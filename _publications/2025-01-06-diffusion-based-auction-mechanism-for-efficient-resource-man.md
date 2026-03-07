@@ -1,11 +1,11 @@
 ---
-title: "[SCIS] Diffusion-based auction mechanism for efficient resource management in 6g-enabled vehicular metaverses"
+title: "[SCIS] Diffusion-Based Auction Mechanism for Efficient Resource Management in 6G-Enabled Vehicular Metaverses"
 collection: publications
 category: manuscripts
 permalink: /publication/diffusion-based-auction-mechanism-for-efficient-resource-man
 date: 2025-01-06
 venue: 'Science China Information Sciences'
-citation: 'Jiawen Kang, Yongju Tong, Yue Zhong, Junlong Chen, Minrui Xu, Dusit Niyato, Runrong Deng, and Shiwen Mao. (2025). &quot;Diffusion-based auction mechanism for efficient resource management in 6g-enabled vehicular metaverses&quot; <i>Science China Information Sciences</i>.'
+citation: 'Jiawen Kang, Yongju Tong, Yue Zhong, Junlong Chen, Minrui Xu, Dusit Niyato, Runrong Deng, and Shiwen Mao. (2025). &quot;Diffusion-Based Auction Mechanism for Efficient Resource Management in 6G-Enabled Vehicular Metaverses&quot; <i>Science China Information Sciences</i>.'
 paperurl: https://doi.org/10.1007/s11432-024-4424-3
 arxiv_id: "2411.04139"
 abstract_source_label: "arXiv"

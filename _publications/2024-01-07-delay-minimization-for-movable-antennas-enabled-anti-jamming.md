@@ -1,11 +1,11 @@
 ---
-title: "[Preprint] Delay minimization for movable antennas-enabled anti-jamming communications with mobile edge computing"
+title: "[Preprint] Delay Minimization for Movable Antennas-Enabled Anti-Jamming Communications with Mobile Edge Computing"
 collection: publications
 category: preprints
 permalink: /publication/delay-minimization-for-movable-antennas-enabled-anti-jamming
 date: 2024-01-07
 venue: 'arXiv preprint arXiv:2409.14418'
-citation: 'Yue Xiu, Yang Zhao, Songjie Yang, Minrui Xu, Dusit Niyato, Yueyang Li, and Ning Wei. (2024). &quot;Delay minimization for movable antennas-enabled anti-jamming communications with mobile edge computing&quot; <i>arXiv preprint arXiv:2409.14418</i>.'
+citation: 'Yue Xiu, Yang Zhao, Songjie Yang, Minrui Xu, Dusit Niyato, Yueyang Li, and Ning Wei. (2024). &quot;Delay Minimization for Movable Antennas-Enabled Anti-Jamming Communications with Mobile Edge Computing&quot; <i>arXiv preprint arXiv:2409.14418</i>.'
 paperurl: https://arxiv.org/abs/2409.14418
 arxiv_id: "2409.14418"
 abstract_source_label: "arXiv"

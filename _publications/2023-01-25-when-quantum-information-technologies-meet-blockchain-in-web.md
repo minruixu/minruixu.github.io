@@ -1,11 +1,11 @@
 ---
-title: "[Network] When quantum information technologies meet blockchain in web 3.0"
+title: "[Network] When Quantum Information Technologies Meet Blockchain in Web 3.0"
 collection: publications
 category: manuscripts
 permalink: /publication/when-quantum-information-technologies-meet-blockchain-in-web
 date: 2023-01-25
 venue: 'IEEE Network'
-citation: 'Minrui Xu, Xiaoxu Ren, Dusit Niyato, Jiawen Kang, Chao Qiu, Zehui Xiong, Xiaofei Wang, and Victor CM Leung. (2023). &quot;When quantum information technologies meet blockchain in web 3.0&quot; <i>IEEE Network</i>.'
+citation: 'Minrui Xu, Xiaoxu Ren, Dusit Niyato, Jiawen Kang, Chao Qiu, Zehui Xiong, Xiaofei Wang, and Victor CM Leung. (2023). &quot;When Quantum Information Technologies Meet Blockchain in Web 3.0&quot; <i>IEEE Network</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10124668/
 arxiv_id: "2211.15941"
 abstract_source_label: "arXiv"

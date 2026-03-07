@@ -1,11 +1,11 @@
 ---
-title: "[ICDCSW] Learning-based incentive mechanism for task freshness-aware vehicular twin migration"
+title: "[ICDCSW] Learning-Based Incentive Mechanism for Task Freshness-Aware Vehicular Twin Migration"
 collection: publications
 category: conferences
 permalink: /publication/learning-based-incentive-mechanism-for-task-freshness-aware
 date: 2023-01-15
 venue: 'IEEE International Conference on Distributed Computing Systems Workshops'
-citation: 'Junhong Zhang, Jiangtian Nie, Jinbo Wen, Jiawen Kang, Minrui Xu, Xiaofeng Luo, and Dusit Niyato. (2023). &quot;Learning-based incentive mechanism for task freshness-aware vehicular twin migration&quot; <i>IEEE International Conference on Distributed Computing Systems Workshops</i>.'
+citation: 'Junhong Zhang, Jiangtian Nie, Jinbo Wen, Jiawen Kang, Minrui Xu, Xiaofeng Luo, and Dusit Niyato. (2023). &quot;Learning-Based Incentive Mechanism for Task Freshness-Aware Vehicular Twin Migration&quot; <i>IEEE International Conference on Distributed Computing Systems Workshops</i>.'
 paperurl: https://ieeexplore.ieee.org/document/10302973/
 arxiv_id: "2309.04929"
 abstract_source_label: "arXiv"
