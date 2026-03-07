@@ -45,7 +45,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.collection == 'publications' and (page.abstract_text or page.featured_figure) %}
+        {% if page.collection == 'publications' %}
+          {% if page.abstract_text or page.featured_figure %}
           <section class="publication-overview">
             <h2 class="publication-overview__title">Overview</h2>
 
@@ -79,6 +80,7 @@ layout: default
               </div>
             {% endif %}
           </section>
+          {% endif %}
         {% endif %}
 
         {{ content }}
