@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <p style="font-size: 0.86rem; color: var(--text-secondary); margin-bottom: 1.5em;">
+  <p style="font-size: 0.84rem; color: var(--text-secondary); margin-bottom: 1.5em;">
     You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
   </p>
 {% endif %}
@@ -23,7 +23,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2>
         <div class="pub-section">
         {% assign title_shown = true %}
       {% endunless %}

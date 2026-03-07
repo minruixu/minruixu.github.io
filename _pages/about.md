@@ -13,7 +13,7 @@ redirect_from:
 
 ## Short Bio
 
-Minrui Xu received the B.S. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, and the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) in 2025, supervised by [**Prof. Dusit Niyato**](https://personal.ntu.edu.sg/dniyato/) (IEEE Fellow). He has published in 2 IEEE Communications Surveys & Tutorials, 2 IEEE Transactions on Networking, and multiple first-tier IEEE journals/conferences.
+Minrui Xu received the B.S. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, and the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) in 2025, supervised by [**Prof. Dusit Niyato**](https://personal.ntu.edu.sg/dniyato/) (IEEE Fellow). He has published 25+ first-author papers in top-tier journals (e.g., IEEE COMST, ToN, JSAC, JSTSP), flagship conferences (e.g., IEEE ICC, Globecom).
 
 His research interests include **6G Wireless Networking**, **Generative AI & LLMs**, **Metaverse & Digital Twins**, **Quantum Internet & QML**, **Federated Learning**, **Deep Reinforcement Learning**, and **Auction & Game Theory**. He initiated several new fields such as edge-enabled Metaverse, mobile generative AI services, and mobile quantum computing.
 
