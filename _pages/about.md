@@ -19,22 +19,63 @@ His research interests include **6G Wireless Networking**, **Generative AI & LLM
 
 ## Education
 
-1. **Ph.D.**, Nanyang Technological University, Aug 2021 -- Aug 2025
-   Supervisor: <span style="color:var(--accent);">Prof. Dusit Niyato, IEEE Fellow</span>
-2. **Visiting Ph.D.**, University of Waterloo, May 2024 -- Jun 2024
-   Supervisor: <span style="color:var(--accent);">Prof. Xuemin (Sherman) Shen, IEEE Fellow</span>
-3. **Visiting Ph.D.**, Sungkyunkwan University, Jun 2023 -- Jul 2023
-   Supervisor: <span style="color:var(--accent);">Prof. Dong In Kim, IEEE Fellow</span>
-4. **Virtual Exchange Ph.D.**, University of Bern, Jan 2023 -- May 2023
-   Supervisor: <span style="color:var(--accent);">Prof. Torsten Braun</span>
-5. **B.S.**, Sun Yat-sen University, Sep 2017 -- Jun 2021
+<div class="cv-timeline">
+  <div class="cv-entry">
+    <div class="cv-date">2021 -- 2025</div>
+    <div class="cv-body">
+      <strong>Ph.D.</strong>, Nanyang Technological University<br>
+      <span class="cv-sup">Supervisor: Prof. Dusit Niyato, IEEE Fellow</span>
+    </div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">May -- Jun 2024</div>
+    <div class="cv-body">
+      <strong>Visiting Ph.D.</strong>, University of Waterloo<br>
+      <span class="cv-sup">Supervisor: Prof. Xuemin (Sherman) Shen, IEEE Fellow</span>
+    </div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">Jun -- Jul 2023</div>
+    <div class="cv-body">
+      <strong>Visiting Ph.D.</strong>, Sungkyunkwan University<br>
+      <span class="cv-sup">Supervisor: Prof. Dong In Kim, IEEE Fellow</span>
+    </div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">Jan -- May 2023</div>
+    <div class="cv-body">
+      <strong>Virtual Exchange Ph.D.</strong>, University of Bern<br>
+      <span class="cv-sup">Supervisor: Prof. Torsten Braun</span>
+    </div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">2017 -- 2021</div>
+    <div class="cv-body">
+      <strong>B.S.</strong>, Sun Yat-sen University
+    </div>
+  </div>
+</div>
 
 ## Working Experience
 
-1. **Research Engineer**, Singapore Management University, Jun 2025 -- Nov 2025
-   Supervisor: <span style="color:var(--accent);">Prof. Paul Robert GRIFFIN</span>. Quantum Machine Learning for Financial Fraud Detection, collaborating with OCBC.
-2. **Research Assistant**, National Institute of Education, NTU, Apr 2025 -- Jun 2025
-   Supervisor: <span style="color:var(--accent);">Prof. Quek Choon Lang Gwendoline</span>. [Investigating GPT for Enhancing Teaching and Learning](https://minruixu.github.io/NIE_AI4Edx/index.html).
+<div class="cv-timeline">
+  <div class="cv-entry">
+    <div class="cv-date">Jun -- Nov 2025</div>
+    <div class="cv-body">
+      <strong>Research Engineer</strong>, Singapore Management University<br>
+      <span class="cv-sup">Supervisor: Prof. Paul Robert GRIFFIN</span><br>
+      <span class="cv-desc">Quantum Machine Learning for Financial Fraud Detection, collaborating with OCBC.</span>
+    </div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">Apr -- Jun 2025</div>
+    <div class="cv-body">
+      <strong>Research Assistant</strong>, National Institute of Education, NTU<br>
+      <span class="cv-sup">Supervisor: Prof. Quek Choon Lang Gwendoline</span><br>
+      <span class="cv-desc"><a href="https://minruixu.github.io/NIE_AI4Edx/index.html">Investigating GPT for Enhancing Teaching and Learning</a>.</span>
+    </div>
+  </div>
+</div>
 
 ## News
 

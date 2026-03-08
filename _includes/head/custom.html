@@ -398,9 +398,38 @@
     vertical-align: text-bottom;
   }
 
-  /* ── Education & Experience Timeline ──────────────────────────── */
-  .page__content ol {
-    position: relative;
+  /* ── CV Timeline (Education & Experience) ────────────────────── */
+  .cv-timeline {
+    margin: 0.5em 0 1em;
+  }
+  .cv-entry {
+    display: flex;
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-light);
+    font-size: 0.86rem;
+    line-height: 1.55;
+  }
+  .cv-entry:last-child { border-bottom: none; }
+  .cv-date {
+    font-family: var(--font-mono);
+    font-size: 0.76rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    width: 120px;
+    flex-shrink: 0;
+    padding-top: 2px;
+  }
+  .cv-body {
+    flex: 1;
+  }
+  .cv-sup {
+    color: var(--accent);
+    font-size: 0.82rem;
+  }
+  .cv-desc {
+    color: var(--text-secondary);
+    font-size: 0.82rem;
   }
 
   /* ── Tables ───────────────────────────────────────────────────── */
@@ -595,6 +624,8 @@
     .referee-grid { grid-template-columns: 1fr; }
     .service-grid { grid-template-columns: 1fr; }
     .news-list li { flex-direction: column; gap: 2px; }
+    .cv-entry { flex-direction: column; gap: 2px; }
+    .cv-date { min-width: auto; }
     .hobby-gallery img { height: 85px; }
   }
 </style>
