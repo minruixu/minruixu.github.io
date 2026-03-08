@@ -1,5 +1,5 @@
 ---
-title: "[CST] Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services"
+title: "[COMST] Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services"
 collection: publications
 category: manuscripts
 permalink: /publication/unleashing-the-power-of-edge-cloud-generative-ai-in-mobile-n
