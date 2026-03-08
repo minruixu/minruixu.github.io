@@ -1,5 +1,5 @@
 ---
-title: "[CST] A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges"
+title: "[COMST] A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges"
 collection: publications
 category: manuscripts
 permalink: /publication/a-full-dive-into-realizing-the-edge-enabled-metaverse-vision
