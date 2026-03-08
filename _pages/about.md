@@ -15,7 +15,7 @@ redirect_from:
 
 Minrui Xu received the B.S. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, and the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) in 2025, supervised by [**Prof. Dusit Niyato**](https://personal.ntu.edu.sg/dniyato/) (IEEE Fellow). He has published 25+ first-author papers in top-tier journals (e.g., IEEE COMST, ToN, JSAC, JSTSP), flagship conferences (e.g., IEEE ICC, Globecom).
 
-His research interests include **6G Wireless Networking**, **Generative AI & LLMs**, **Metaverse & Digital Twins**, **Quantum Internet & QML**, **Federated Learning**, **Deep Reinforcement Learning**, and **Auction & Game Theory**. He initiated several new fields such as edge-enabled Metaverse, mobile generative AI services, and mobile quantum computing.
+His research interests include **6G Wireless Networking**, **Generative AI & LLMs**, **Metaverse & Digital Twins**, **Quantum Internet & QML**, **Federated Learning**, **Deep Reinforcement Learning**, and **Auction & Game Theory**. His work includes some of the early studies on edge-enabled metaverse systems, mobile generative AI services, and mobile quantum computing.
 
 ## Education
 
@@ -96,37 +96,37 @@ Representative work spanning AI-native networking, edge intelligence, and mechan
     <input class="pub-toggle" id="pub-toggle-1" type="checkbox">
     <label class="pub-title" for="pub-toggle-1"><span class="pub-venue">ToN 2026</span> Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-Based Model Caching and Inference Offloading</label>
     <div class="pub-meta"><strong>Minrui Xu</strong>, Dusit Niyato, and Christopher G. Brinton. <em>IEEE Transactions on Networking</em>.</div>
-    <div class="pub-quote-body"><strong>Research Highlight.</strong> A landmark result that establishes the economic robustness of the double Dutch auction, resolving a three-decade open question in auction theory.</div>
+    <div class="pub-quote-body"><strong>Research Highlight.</strong> This work studies test-time reinforcement learning for model caching and inference offloading in long-context LLM serving at the mobile edge.</div>
   </div></li>
   <li><div class="pub-quote">
     <input class="pub-toggle" id="pub-toggle-2" type="checkbox">
     <label class="pub-title" for="pub-toggle-2"><span class="pub-venue">ToN 2026</span> Cached Model-as-a-Resource: Provisioning Large Language Model Agents for Edge Intelligence in SAGIN</label>
     <div class="pub-meta"><strong>Minrui Xu</strong>, Dusit Niyato, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. <em>IEEE Transactions on Networking</em>.</div>
-    <div class="pub-quote-body"><strong>Research Highlight.</strong> The first ToN paper to position LLM serving as a native networking service problem.</div>
+    <div class="pub-quote-body"><strong>Research Highlight.</strong> This work studies provisioning LLM agents in SAGIN as a networking-oriented resource management problem.</div>
   </div></li>
   <li><div class="pub-quote">
     <input class="pub-toggle" id="pub-toggle-3" type="checkbox">
     <label class="pub-title" for="pub-toggle-3"><span class="pub-venue">ComST 2024</span> Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services</label>
     <div class="pub-meta"><strong>Minrui Xu</strong>, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin Shen, et al. <em>IEEE Communications Surveys &amp; Tutorials</em>.</div>
-    <div class="pub-quote-body"><strong>Research Highlight.</strong> The first networking survey devoted to mobile AIGC systems and edge-cloud generative AI services.</div>
+    <div class="pub-quote-body"><strong>Research Highlight.</strong> Among the early survey works on mobile AIGC systems and edge-cloud generative AI services in wireless networks.</div>
   </div></li>
   <li><div class="pub-quote">
     <input class="pub-toggle" id="pub-toggle-4" type="checkbox">
     <label class="pub-title" for="pub-toggle-4"><span class="pub-venue">WCM 2024</span> When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment</label>
     <div class="pub-meta"><strong>Minrui Xu</strong>, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Dong In Kim, and Khaled B. Letaief. <em>IEEE Wireless Communications</em>.</div>
-    <div class="pub-quote-body"><strong>Research Highlight.</strong> The first dedicated exploration of LLM agents in 6G, unifying perception, grounding, and alignment.</div>
+    <div class="pub-quote-body"><strong>Research Highlight.</strong> One of the early studies on LLM agents in 6G, focusing on perception, grounding, and alignment.</div>
   </div></li>
   <li><div class="pub-quote">
     <input class="pub-toggle" id="pub-toggle-5" type="checkbox">
     <label class="pub-title" for="pub-toggle-5"><span class="pub-venue">ComST 2023</span> A Full Dive Into Realizing the Edge-Enabled Metaverse: Visions, Enabling Technologies, and Challenges</label>
     <div class="pub-meta"><strong>Minrui Xu</strong>, Wei Chong Ng, Wei Yang Bryan Lim, Jiawen Kang, Zehui Xiong, Dusit Niyato, Qiang Yang, Xuemin Shen, and Chunyan Miao. <em>IEEE Communications Surveys &amp; Tutorials</em>.</div>
-    <div class="pub-quote-body"><strong>Research Highlight.</strong> The first comprehensive survey of the metaverse from a mobile networking perspective.</div>
+    <div class="pub-quote-body"><strong>Research Highlight.</strong> Among the early survey works on the edge-enabled metaverse from a mobile networking perspective.</div>
   </div></li>
   <li><div class="pub-quote">
     <input class="pub-toggle" id="pub-toggle-6" type="checkbox">
     <label class="pub-title" for="pub-toggle-6"><span class="pub-venue">JSAC 2023</span> EPViSA: Efficient Auction Design for Real-Time Physical-Virtual Synchronization in the Metaverse</label>
     <div class="pub-meta"><strong>Minrui Xu</strong>, Dusit Niyato, Benjamin Wright, Hongliang Zhang, Jiawen Kang, Zehui Xiong, Shiwen Mao, and Zhu Han. <em>IEEE Journal on Selected Areas in Communications</em>.</div>
-    <div class="pub-quote-body"><strong>Research Highlight.</strong> A principled solution to the twin challenges of externalities and information asymmetry in real-time physical-virtual synchronization.</div>
+    <div class="pub-quote-body"><strong>Research Highlight.</strong> This work studies mechanism design for real-time physical-virtual synchronization under externalities and information asymmetry.</div>
   </div></li>
 </ol>
 
