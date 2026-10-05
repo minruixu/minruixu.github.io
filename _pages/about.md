@@ -13,7 +13,7 @@ redirect_from:
 
 ## Short Bio
 
-Minrui Xu received the B.S. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, and the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) in 2025, supervised by [**Prof. Dusit Niyato**](https://personal.ntu.edu.sg/dniyato/) (IEEE Fellow). He has published 25+ first-author papers in top-tier journals (e.g., IEEE COMST, ToN, JSAC, JSTSP), flagship conferences (e.g., IEEE ICC, Globecom).
+Minrui Xu received the B.S. degree from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, and the Ph.D. degree from [Nanyang Technological University](https://www.ntu.edu.sg/) in 2025. He has published 25+ first-author papers in top-tier journals (e.g., IEEE COMST, ToN, JSAC, JSTSP), flagship conferences (e.g., IEEE ICC, Globecom).
 
 His research interests include **6G Wireless Networking**, **Generative AI & LLMs**, **Metaverse & Digital Twins**, **Quantum Internet & QML**, **Federated Learning**, **Deep Reinforcement Learning**, and **Auction & Game Theory**. His work includes some of the early studies on edge-enabled metaverse systems, mobile generative AI services, and mobile quantum computing.
 
@@ -23,29 +23,25 @@ His research interests include **6G Wireless Networking**, **Generative AI & LLM
   <div class="cv-entry">
     <div class="cv-date">2021 -- 2025</div>
     <div class="cv-body">
-      <strong>Ph.D.</strong>, Nanyang Technological University<br>
-      <span class="cv-sup">Supervisor: Prof. Dusit Niyato, IEEE Fellow</span>
+      <strong>Ph.D.</strong>, Nanyang Technological University
     </div>
   </div>
   <div class="cv-entry">
     <div class="cv-date">May -- Jun 2024</div>
     <div class="cv-body">
-      <strong>Visiting Ph.D.</strong>, University of Waterloo<br>
-      <span class="cv-sup">Supervisor: Prof. Xuemin (Sherman) Shen, IEEE Fellow</span>
+      <strong>Visiting Ph.D.</strong>, University of Waterloo
     </div>
   </div>
   <div class="cv-entry">
     <div class="cv-date">Jun -- Jul 2023</div>
     <div class="cv-body">
-      <strong>Visiting Ph.D.</strong>, Sungkyunkwan University<br>
-      <span class="cv-sup">Supervisor: Prof. Dong In Kim, IEEE Fellow</span>
+      <strong>Visiting Ph.D.</strong>, Sungkyunkwan University
     </div>
   </div>
   <div class="cv-entry">
     <div class="cv-date">Jan -- May 2023</div>
     <div class="cv-body">
-      <strong>Virtual Exchange Ph.D.</strong>, University of Bern<br>
-      <span class="cv-sup">Supervisor: Prof. Torsten Braun</span>
+      <strong>Virtual Exchange Ph.D.</strong>, University of Bern
     </div>
   </div>
   <div class="cv-entry">
@@ -63,7 +59,6 @@ His research interests include **6G Wireless Networking**, **Generative AI & LLM
     <div class="cv-date">Jun -- Nov 2025</div>
     <div class="cv-body">
       <strong>Research Engineer</strong>, Singapore Management University<br>
-      <span class="cv-sup">Supervisor: Prof. Paul Robert GRIFFIN</span><br>
       <span class="cv-desc">Quantum Machine Learning for Financial Fraud Detection, collaborating with OCBC.</span>
     </div>
   </div>
@@ -71,7 +66,6 @@ His research interests include **6G Wireless Networking**, **Generative AI & LLM
     <div class="cv-date">Apr -- Jun 2025</div>
     <div class="cv-body">
       <strong>Research Assistant</strong>, National Institute of Education, NTU<br>
-      <span class="cv-sup">Supervisor: Prof. Quek Choon Lang Gwendoline</span><br>
       <span class="cv-desc"><a href="https://minruixu.github.io/NIE_AI4Edx/index.html">Investigating GPT for Enhancing Teaching and Learning</a>.</span>
     </div>
   </div>
